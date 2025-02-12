@@ -1,0 +1,19 @@
+{
+    "Marca": "LG",
+    "Nombre": "LG gram 17Z90R",
+    "SistemaOperativo": "Version S.O. Windows 11 Home",
+    "Procesador": "Familia Procesador Intel Core i7 Modelo de procesador i7-1360P Fabricante procesador Intel Frecuencia del procesador 2,2 GHZ",
+    "RAM": "RAM Instalada 32 GB RAM Máxima 32 GB Bancos RAM Libres 0 Velocidad de la memoria de reloj 6.000 MHz Tecnología de la RAM LPDDR5",
+    "DiscoDuro": "Disco duro 1.000 GB Tipo Soporte 1 SSD Interfaz Soporte 1 PCI Express 4.0 Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada Si Fabricante de la gráfica Intel Modelo gráfica RTX™ 3050 Ti Memoria de la gráfica 18 mb",
+    "DimensionesPeso": "Peso sin embalaje 1,45 kg Altura 25,88 cm Ancho 37,88 cm Profundidad 1,78 cm",
+    "Codigo": "17Z90R-E.AD78B",
+    "Precio": "2.205,78 €",
+    "Pantalla": "Tamaño pantalla 17\" Pantalla táctil No Tipo de pantalla IPS Resolución (Estándar) 2560 x 1600 Superficie de la pantalla Mate",
+    "General": "Color Negro Trusted Platform Module (TPM) Si",
+    "Conexiones": "Conexión a red móvil No Nº total de puertos USB 4 Puertos USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 2 Puertos USB 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C 2 Ethernet No presente Porte VGA No Bluetooth Si Puerto Thunderbolt Si Puerto HDMI Si",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 4 Duración de la batería hasta 20 h",
+    "Webcam": "Webcam integrada Si Resolución Webcam 1920 x 1080",
+    "Teclado": "Numero de teclas 101 Teclado numérico Si"
+}
