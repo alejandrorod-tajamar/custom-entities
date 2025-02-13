@@ -1,0 +1,19 @@
+{
+    "Marca": "SAMSUNG",
+    "Nombre": "GALAXY BOOK4 ULTRA",
+    "SistemaOperativo": "Version S.O. Windows 11 Home Software incluido Galaxy Productivity: Control y Colaboración Galaxy Book Experience experiencia fácil multidispositivo",
+    "Procesador": "Familia Procesador intel Core Ultra 9 Modelo de procesador 185H Fabricante procesador Intel Frecuencia del procesador 1,4 GHz Frecuencia del procesador turbo 5,1 GHz",
+    "RAM": "RAM Instalada 32GB RAM Máxima 32GB Bancos RAM Libres 0 Velocidad de la memoria de reloj 7.467 MHz Tecnología de la RAM LPDDR5X Tipo de RAM SO-DIMM",
+    "DiscoDuro": "Disco duro 1.000 GB Tipo Soporte 1 SSD Interfaz Soporte 1 PCI Express 4.0 Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada No Fabricante de la gráfica Nvidia Modelo gráfica GeForce RTX 4070 Memoria de la gráfica 12.228 mb",
+    "DimensionesPeso": "Peso sin embalaje 1,86 kg Altura 25,05 cm Ancho 35,54 cm Profundidad 1,65 cm",
+    "Codigo": "NP960XGL-XG2ES",
+    "Precio": "3.247,24 €",
+    "Pantalla": "Tamaño pantalla 16\" Pantalla táctil Si Tipo de pantalla AMOLED Resolución (Estándar) 2880 x 1800 Superficie de la pantalla Mate",
+    "General": "Tipo producto Ultrabook Color Moonstone Grey Trusted Platform Module (TPM) Si Material Chasis Aluminio + Magnesio Detección huella dactilar Si 2 en 1 Detatchable No Convertibili 2 en 1 No Carcarsa para cable de seguridad No",
+    "Conexiones": "Conexión a red móvil No Nº total de puertos USB 3 Puertos USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 1 Puertos USB 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C 2 Ethernet No presente Porte VGA No Bluetooth Si Bluetooth Versión 5,3 Puerto Thunderbolt No Puerto HDMI Si HDMI micro No Display Port No Mini Display Port No Conexión para Dockstation del fabricante No Wireless (standard) Wifi 6E (802.11ax) Otras conexiones El HDMI es 2.1 (Supports 8K@60Hz, 5K@120Hz) los dos USB-C son Thunderbolt 4 Headphone out/Mic-in Combo Tipo de puerto de carga USB Type-C",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 1 Duración de la batería hasta 21 h",
+    "Webcam": "Webcam integrada Si Resolución Webcam 1920 x 1080",
+    "Teclado": "Teclado numérico Si Teclado retroiluminado Si"
+}

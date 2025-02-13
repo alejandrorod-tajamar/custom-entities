@@ -1,0 +1,19 @@
+{
+    "Marca": "LG",
+    "Nombre": "LG gram 16Z90R/",
+    "SistemaOperativo": "Version S.O. Windows 11 Home",
+    "Procesador": "Familia Procesador Intel Core i7 Modelo de procesador i7-1360P Fabricante procesador Intel Frecuencia del procesador 2,2 GHZ",
+    "RAM": "RAM Instalada 32 GB RAM Máxima 32 GB Bancos RAM Libres 0 Velocidad de la memoria de reloj 6.000 MHz Tecnología de la RAM LPDDR5",
+    "DiscoDuro": "Disco duro 1.000 GB Tipo Soporte 1 SSD Interfaz Soporte 1 PCI Express 4.0 Número Soportes 2",
+    "TarjetaGrafica": "Gráfica integrada No Fabricante de la gráfica Nvidia Modelo gráfica Iris Xe Graphics Memoria de la gráfica 0 mb",
+    "DimensionesPeso": "Peso sin embalaje 1,2 kg Altura 35,51 cm Ancho 24,23 cm Profundidad 16,8 cm",
+    "Codigo": "16Z90R-E.AD78B",
+    "Precio": "2.130,00 €",
+    "Pantalla": "Tamaño pantalla 16\" Pantalla táctil No Tipo de pantalla IPS Resolución (Estándar) 2560 x 1600 Superficie de la pantalla n/d",
+    "General": "Color Negro Trusted Platform Module (TPM) Si",
+    "Conexiones": "Conexión a red móvil No Ethernet Ethernet 10/100 Porte VGA No Bluetooth Si Bluetooth Versión 5,1 Puerto Thunderbolt Si Puerto HDMI Si",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 4 Duración de la batería hasta 13,5 h",
+    "Webcam": "Webcam integrada Si",
+    "Teclado": ""
+}

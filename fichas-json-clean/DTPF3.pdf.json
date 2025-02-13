@@ -1,0 +1,19 @@
+{
+    "Marca": "DELLTechnologies",
+    "Nombre": "Dell XPS 14 9440U7",
+    "SistemaOperativo": "Version S.O. Windows 11 Pro Bit S.O. 64",
+    "Procesador": "Familia Procesador Intel Core Ultra 7 Modelo de procesador 155H Fabricante procesador Intel Generación del procesador Intel Core Ultra (Series 1) Número de núcleos de procesador 16 Frecuencia del procesador turbo 4,8",
+    "RAM": "RAM Instalada 32 RAM Máxima 32 Tecnología de la RAM LPDDR5X Tipo de RAM On-board",
+    "DiscoDuro": "Disco duro 1.000 Tipo Soporte 1 SSD Interfaz Soporte 1 NVMe Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada Si Fabricante de la gráfica Nvidia Modelo gráfica Geforce RTX 4050",
+    "DimensionesPeso": "Peso sin embalaje 1,74 kg Altura 1,8 cm Ancho 32 Profundidad 21,6 cm",
+    "Codigo": "DTPF3",
+    "Precio": "2.628,52 €",
+    "Pantalla": "Tamaño pantalla 14,5 Pantalla táctil Si Tipo de pantalla OLED Resolución (Estándar) 3200 x 2000 Luminosidad 400 Contraste 1.000.000 Tipologia HD 3.2K Retroiluminación Yes Tiempo máximo de refresco 120 Espacio de color RGB DCI-P3",
+    "General": "Color Gris Trusted Platform Module (TPM) Si Material Chasis Aluminio Detección huella dactilar Si Potencia adaptador AC 100 2 en 1 Detachable No Convertibili 2 in 1 No Potencia de adaptador AC 100",
+    "Conexiones": "Conexión a red móvil No Nº total de puertos USB 0 Puertos USB 2.0 High Speed Type-A 0 Puertos USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 0 Ethernet No presente Porte VGA No Bluetooth Si Puerto Thunderbolt Si Puerto HDMI Si HDMI micro No Display Port No Mini Display Port No Conexión para Dockstation del fabricante No Wireless (standard) Wifi 6E (802.11ax) Tipo de puerto de carga USB Type-C",
+    "Audio": "Micrófono Integrado Si Altavoces (Fabricante) Waves",
+    "Bateria": "Número celdas 6 Capacidad de batería 69,5",
+    "Webcam": "Webcam integrada Si Resolución webcam 1920 x 1080 Infrarrojos Si Cámara frontal tipo HD Full HD",
+    "Teclado": "Teclado numérico No Teclado retroiluminado Si"
+}

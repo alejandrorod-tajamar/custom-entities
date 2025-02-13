@@ -1,0 +1,19 @@
+{
+    "Marca": "DELLTechnologies",
+    "Nombre": "Dell Latitude 9450 2-in-1 U7 165U",
+    "SistemaOperativo": "Version S.O. Windows 11 Pro",
+    "Procesador": "Familia Procesador Intel Core Ultra 7 Modelo de procesador 164U Fabricante procesador Intel Frecuencia del procesador 4,4 GHZ",
+    "RAM": "RAM Instalada 32 GB RAM Máxima 32 GB Bancos RAM Libres 0 Velocidad de la memoria de reloj 7.467 MHZ Tecnología de la RAM DDR5",
+    "DiscoDuro": "Disco duro 1.024 GB Tipo Soporte 1 SSD Interfaz Soporte 1 PCI Express 4.0 Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada No Fabricante de la gráfica Intel Modelo gráfica UHD Graphics Memoria de la gráfica 0 mb",
+    "DimensionesPeso": "Peso sin embalaje 1,54 kg Altura 1,28 cm Ancho 31,1 cm Profundidad 2,15 cm",
+    "Codigo": "GN4X0",
+    "Precio": "2.542,61 €",
+    "Pantalla": "Tamaño pantalla 14\" Pantalla táctil Si Tipo de pantalla TFT Resolución (Estándar) 2560 x 1600",
+    "General": "Color Gris Trusted Platform Module (TPM) No",
+    "Conexiones": "Conexión a red móvil Si Ethernet Ethernet 10/100/1000 Porte VGA No Bluetooth Si Puerto Thunderbolt Si Puerto HDMI No",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 3",
+    "Webcam": "Webcam integrada Si",
+    "Teclado": ""
+}

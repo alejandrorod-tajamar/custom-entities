@@ -1,0 +1,19 @@
+{
+    "Marca": "Microsoft Surface",
+    "Nombre": "Microsoft Surface Laptop 6",
+    "SistemaOperativo": "Version S.O. Windows 11 Pro",
+    "Procesador": "Familia Procesador Intel Core Modelo de procesador 165H Fabricante procesador Intel Frecuencia del 1,7 GHZ Ultra 7 procesador",
+    "RAM": "RAM Instalada 32 GB RAM Máxima 32 GB Bancos RAM Libres 0 Velocidad de la memoria de reloj 4,27 MHz Tecnología de la RAM LPDDR5",
+    "DiscoDuro": "Disco duro 1.000 GB Tipo Soporte 1 SSD Interfaz Soporte 1 SSD Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada Si Fabricante de la gráfica Intel Modelo gráfica Intel Arc Graphics Memoria de la gráfica 0 mb",
+    "DimensionesPeso": "Peso sin embalaje 1,38 kg Altura 16,7 cm Ancho 22,3 cm Profundidad 1,67 cm",
+    "Codigo": "ZKB-00012",
+    "Precio": "2.528,75 €",
+    "Pantalla": "Tamaño pantalla 13,5 \" Pantalla táctil Si Tipo de pantalla TFT Resolución (Estándar) 2256 x 1504 Superficie de la pantalla Brillo",
+    "General": "Color Negro Trusted Platform Module (TPM) Si Material Chasis Aluminio Detección huella dactilar No",
+    "Conexiones": "Conexión a red móvil No Nº total de puertos USB 3 Puertos USB 2.0 High Speed Type-A 1 Puertos USB 4 (40 Gbps) Type-C 2 Ethernet No presente Porte VGA No Bluetooth Si Bluetooth Versión 5,3 Puerto Thunderbolt Si Puerto HDMI No Conexión para Dockstation del fabricante Si Wireless (standard) Wifi 6E (802.11ax) Otras conexiones 1 x USB-C USB4/Thunderbolt4 con soporte para: Carga, Transferencia de Archivos. 1x USB-A 3.1 DisplayPort 2.1 con soporte hasta 1 x 8K monitor 1 x Surface Connect 1 x Audio jack",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 6 Duración de la batería hasta 18,5 h",
+    "Webcam": "Webcam integrada Si Resolución Webcam 1920 x 1080 Infrarrojos Si",
+    "Teclado": "Teclado retroiluminado Si"
+}

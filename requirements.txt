@@ -1,4 +1,3 @@
-azure-ai-formrecognizer
 python-dotenv
-azure-storage-blob
-spacy
+azure-ai-formrecognizer
+azure-core
