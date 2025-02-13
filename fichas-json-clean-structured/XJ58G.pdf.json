@@ -1,72 +1,92 @@
 {
-    "Producto": {
-        "Marca": "DELLTechnologies",
-        "Nombre": "Dell Inspiron 15",
-        "Codigo": "XJ58G",
-        "Precio": "554,33 €",
-        "Especificaciones": {
+    "Productos": [
+        {
+            "Marca": "DELLTechnologies",
+            "Nombre": "Dell Inspiron 15",
             "SistemaOperativo": "Version S.O. Windows 11 Home",
             "Procesador": {
-                "Familia": "AMD Ryzen 7",
+                "Familia": "Procesador AMD Ryzen 7",
                 "Modelo": "Ryzen 7 7730U",
-                "Fabricante": "AMD"
+                "Fabricante": "AMD",
+                "Frecuencia": "",
+                "DetallesAdicionales": {}
             },
             "RAM": {
                 "Instalada": "16 GB",
                 "Maxima": "16 GB",
+                "Libres": "",
+                "Velocidad": "",
                 "Tecnologia": "DDR4"
             },
             "DiscoDuro": {
-                "Capacidad": "512 GB",
+                "Tamaño": "512 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express",
-                "NumeroSoportes": 1
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
             },
             "TarjetaGrafica": {
-                "GráficaIntegrada": true,
+                "Integrada": true,
                 "Fabricante": "AMD",
-                "Modelo": "AMD Radeon Graphics"
+                "Modelo": "AMD Radeon Graphics",
+                "Memoria": "",
+                "DetallesAdicionales": {}
             },
+            "Dimensiones": {
+                "Peso": "2,87 kg",
+                "Altura": "7 cm",
+                "Ancho": "35,5 cm",
+                "Profundidad": "45,44 cm"
+            },
+            "Codigo": "XJ58G",
+            "Precio": "554,33 €",
             "Pantalla": {
                 "Tamaño": "15,6\"",
-                "PantallaTactil": false,
+                "Tactil": false,
                 "Tipo": "IPS",
-                "Resolución": "1920 x 1080"
+                "Resolucion": "1920 x 1080",
+                "DetallesAdicionales": {}
             },
-            "DimensionesPeso": {
-                "Largo": "45,44 cm",
-                "Ancho": "7 cm",
-                "Profundidad": "35,5 cm",
-                "PesoConEmbalaje": "2,87 kg"
+            "General": {
+                "Color": "Negro",
+                "TPM": true,
+                "DetallesAdicionales": {
+                    "Detección huella dactilar": true
+                }
             },
-            "Bateria": {
-                "NúmeroCeldas": 3,
-                "Capacidad": 41
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "Total": "3",
+                    "PuertosUSB2.0": "1",
+                    "PuertosUSB3.2Gen1": "1",
+                    "PuertosUSB3.2Gen2": "1"
+                },
+                "Bluetooth": false,
+                "Otros": {
+                    "Puerto HDMI": true
+                }
             },
             "Audio": {
-                "MicrófonoIntegrado": true
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "3",
+                "Duracion": "41"
             },
             "Webcam": {
-                "Integrada": true
+                "Integrada": true,
+                "Resolucion": ""
             },
-            "Teclado": null,
-            "Alimentador": null
-        },
-        "General": {
-            "Color": "Negro",
-            "TrustedPlatformModule": true,
-            "DetecciónHuellaDactilar": true
-        },
-        "Conexiones": {
-            "ConexiónRedMóvil": false,
-            "PuertosUSB": {
-                "Total": 3,
-                "USB2.0": 1,
-                "USB3.2Gen1": 1,
-                "USB3.2Gen2": 1
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
             },
-            "Ethernet": false,
-            "PuertoHDMI": true
+            "Alimentador": {
+                "Potencia": ""
+            }
         }
-    }
+    ]
 }

@@ -1,100 +1,97 @@
 {
-    "Producto": {
-        "Marca": "Microsoft Surface",
-        "Nombre": "Microsoft Surface Laptop 6",
-        "Código": "ZKB-00012",
-        "Precio": "2.528,75 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Pro",
-        "Procesador": {
-            "Familia": "Intel Core",
-            "Modelo": "165H",
-            "Fabricante": "Intel",
-            "Frecuencia": "1,7 GHz",
-            "Tipo": "Ultra 7"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Máxima": "32 GB",
-            "BancosLibres": 0,
-            "Velocidad": "4,27 MHz",
-            "Tecnología": "LPDDR5"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.000 GB",
-            "Tipo": "SSD",
-            "Interfaz": "SSD",
-            "NúmeroSoportes": 1
-        },
-        "TarjetaGrafica": {
-            "Integrada": true,
-            "Fabricante": "Intel",
-            "Modelo": "Intel Arc Graphics",
-            "Memoria": "0 MB"
-        },
-        "Batería": {
-            "NúmeroCeldas": 6,
-            "Duración": "hasta 18,5 h"
-        },
-        "Dimensiones": {
-            "Peso": "1,38 kg",
-            "Altura": "16,7 cm",
-            "Ancho": "22,3 cm",
-            "Profundidad": "1,67 cm"
-        }
-    },
-    "Conectividad": {
-        "Conexiones": {
-            "RedMóvil": false,
-            "Puertos": {
-                "TotalUSB": 3,
-                "USB2.0": 1,
-                "USB4": 2
+    "Productos": [
+        {
+            "Marca": "Microsoft Surface",
+            "Nombre": "Microsoft Surface Laptop 6",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro",
+            "Procesador": {
+                "Familia": "Procesador Intel Core",
+                "Modelo": "Modelo de procesador 165H",
+                "Fabricante": "Intel",
+                "Frecuencia": "1,7 GHZ Ultra 7 procesador",
+                "DetallesAdicionales": {}
             },
-            "Ethernet": false,
-            "VGA": false,
-            "Bluetooth": {
-                "Disponible": true,
-                "Versión": "5,3"
+            "RAM": {
+                "Instalada": "32 GB",
+                "Maxima": "32 GB",
+                "Libres": "0",
+                "Velocidad": "4,27 MHz",
+                "Tecnologia": "LPDDR5"
             },
-            "Thunderbolt": true,
-            "HDMI": false,
-            "Dockstation": true,
-            "Wireless": "Wifi 6E (802.11ax)",
-            "OtrasConexiones": [
-                "1 x USB-C USB4/Thunderbolt4 con soporte para: Carga, Transferencia de Archivos",
-                "1 x USB-A 3.1 DisplayPort 2.1 con soporte hasta 1 x 8K monitor",
-                "1 x Surface Connect",
-                "1 x Audio jack"
-            ]
+            "DiscoDuro": {
+                "Tamaño": "1.000 GB",
+                "Tipo": "SSD",
+                "Interfaz": "Soporte 1 SSD",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "Intel",
+                "Modelo": "Intel Arc Graphics",
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,38 kg",
+                "Altura": "16,7 cm",
+                "Ancho": "22,3 cm",
+                "Profundidad": "1,67 cm"
+            },
+            "Codigo": "ZKB-00012",
+            "Precio": "2.528,75 €",
+            "Pantalla": {
+                "Tamaño": "13,5 \"",
+                "Tactil": true,
+                "Tipo": "TFT",
+                "Resolucion": "2256 x 1504",
+                "DetallesAdicionales": {}
+            },
+            "General": {
+                "Color": "Negro",
+                "TPM": true,
+                "DetallesAdicionales": {
+                    "Material": "Chasis Aluminio",
+                    "Detección huella dactilar": "No"
+                }
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "Total": 3,
+                    "Puertos USB 2.0 High Speed Type-A": 1,
+                    "Puertos USB 4 (40 Gbps) Type-C": 2
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "Bluetooth Versión": "5,3",
+                    "Puerto Thunderbolt": true,
+                    "Puerto HDMI": false,
+                    "Conexión para Dockstation del fabricante": true,
+                    "Wireless (standard)": "Wifi 6E (802.11ax)",
+                    "Otras conexiones": "1 x USB-C USB4/Thunderbolt4 con soporte para: Carga, Transferencia de Archivos. 1x USB-A 3.1 DisplayPort 2.1 con soporte hasta 1 x 8K monitor 1 x Surface Connect 1 x Audio jack"
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "6",
+                "Duracion": "hasta 18,5 h"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": "1920 x 1080"
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": true
+            },
+            "Alimentador": {
+                "Potencia": ""
+            }
         }
-    },
-    "Características": {
-        "Pantalla": {
-            "Tamaño": "13,5 \"",
-            "Táctil": true,
-            "Tipo": "TFT",
-            "Resolución": "2256 x 1504",
-            "Brillo": true
-        },
-        "General": {
-            "Color": "Negro",
-            "TPM": true,
-            "MaterialChasis": "Aluminio",
-            "DetecciónHuella": false
-        },
-        "Audio": {
-            "MicrófonoIntegrado": true
-        },
-        "Webcam": {
-            "Integrada": true,
-            "Resolución": "1920 x 1080",
-            "Infrarrojos": true
-        },
-        "Teclado": {
-            "Retroiluminado": true
-        },
-        "Alimentador": ""
-    }
+    ]
 }

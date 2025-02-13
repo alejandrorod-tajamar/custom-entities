@@ -1,113 +1,103 @@
 {
-    "Producto": {
-        "Marca": "SAMSUNG",
-        "Nombre": "GALAXY BOOK4 ULTRA",
-        "Codigo": "NP960XGL-XG1ES",
-        "Precio": "2.425,46 €",
-        "DimensionesPeso": {
-            "Peso": "1,86 kg",
-            "Altura": "25,04 cm",
-            "Ancho": "35,54 cm",
-            "Profundidad": "4,3 cm"
-        },
-        "General": {
-            "TipoProducto": "Ultrabook",
-            "Color": "Moonstone Grey",
-            "TPM": "Si",
-            "MaterialChasis": "Aluminio + Magnesio",
-            "DetecciónHuella": "Si",
-            "Detachable": "No",
-            "Convertible": "No",
-            "CarcasaCableSeguridad": "No"
-        },
-        "SistemaOperativo": {
-            "Version": "Windows 11 Home",
-            "SoftwareIncluido": "Galaxy Productivity",
-            "GalaxyBookExperience": "experiencia fácil multidispositivo"
-        },
-        "Hardware": {
+    "Productos": [
+        {
+            "Marca": "SAMSUNG",
+            "Nombre": "GALAXY BOOK4 ULTRA",
+            "SistemaOperativo": "Version S.O. Windows 11 Home Software incluido Galaxy Productivity: Control y Colaboración Galaxy Book Experience experiencia fácil multidispositivo",
             "Procesador": {
-                "Familia": "Intel Core Ultra 7",
+                "Familia": "Procesador intel Core Ultra 7",
                 "Modelo": "155H",
                 "Fabricante": "Intel",
                 "Frecuencia": "1,4 GHz",
-                "FrecuenciaTurbo": "5,1 GHz"
+                "DetallesAdicionales": {
+                    "Frecuencia del procesador turbo": "5,1 GHz"
+                }
             },
             "RAM": {
                 "Instalada": "16GB",
-                "Máxima": "16GB",
-                "BancosLibres": 0,
+                "Maxima": "16GB",
+                "Libres": "0",
                 "Velocidad": "7.467 MHz",
-                "Tecnología": "LPDDR5X",
-                "Tipo": "SO-DIMM"
+                "Tecnologia": "LPDDR5X"
             },
             "DiscoDuro": {
-                "Capacidad": "1.000 GB",
+                "Tamaño": "1.000 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NúmeroSoportes": 1
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
             },
             "TarjetaGrafica": {
-                "GráficaIntegrada": "No",
+                "Integrada": false,
                 "Fabricante": "Nvidia",
-                "Modelo": "GeForce RTX 4050"
-            }
-        },
-        "Pantalla": {
-            "Tamaño": "16\"",
-            "Táctil": "Si",
-            "Tipo": "AMOLED",
-            "Resolución": "2880 x 1800",
-            "Superficie": "Mate"
-        },
-        "Conexiones": {
-            "RedMovil": "No",
-            "PuertosUSB": {
-                "Total": 3,
-                "USB3_2Gen1": {
-                    "Tipo": "Type-A",
-                    "Cantidad": 1
-                },
-                "USB3_2Gen2x2": {
-                    "Tipo": "Type-C",
-                    "Cantidad": 2
+                "Modelo": "GeForce RTX 4050",
+                "Memoria": "",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,86 kg",
+                "Altura": "25,04 cm",
+                "Ancho": "35,54 cm",
+                "Profundidad": "4,3 cm"
+            },
+            "Codigo": "NP960XGL-XG1ES",
+            "Precio": "2.425,46 €",
+            "Pantalla": {
+                "Tamaño": "16\"",
+                "Tactil": true,
+                "Tipo": "AMOLED",
+                "Resolucion": "2880 x 1800",
+                "DetallesAdicionales": {
+                    "Superficie de la pantalla": "Mate"
                 }
             },
-            "Ethernet": "No presente",
-            "PuertoVGA": "No",
-            "Bluetooth": {
-                "Si": "Si",
-                "Versión": "5,3"
+            "General": {
+                "Color": "Moonstone Grey",
+                "TPM": true,
+                "DetallesAdicionales": {
+                    "Tipo producto": "Ultrabook",
+                    "Material": "Chasis Aluminio + Magnesio",
+                    "Detección huella dactilar": true,
+                    "2 en 1 Detatchable": false,
+                    "Convertibili": false,
+                    "Carcarsa para cable de seguridad": false
+                }
             },
-            "PuertoThunderbolt": "No",
-            "PuertoHDMI": {
-                "Si": "Si",
-                "Versión": "2.1 (Supports 8K@60Hz, 5K@120Hz)"
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "3 Puertos USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A": 1,
+                    "1 Puertos USB 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C": 1,
+                    "2": "Puertos USB"
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "Bluetooth Versión": "5,3",
+                    "Puerto HDMI": true,
+                    "Wireless (standard)": "Wifi 6E (802.11ax)",
+                    "Otras conexiones": "El HDMI es 2.1 (Supports 8K@60Hz, 5K@120Hz) los dos USB-C son Thunderbolt 4 Headphone out/Mic-in Combo Tipo de puerto de carga USB Type-C"
+                }
             },
-            "ConexionesAdicionales": {
-                "USB-C": "Thunderbolt 4",
-                "HeadphoneOutMicInCombo": "Si",
-                "TipoPuertoCarga": "USB Type-C"
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
             },
-            "Wireles": {
-                "Estándar": "Wifi 6E (802.11ax)"
+            "Bateria": {
+                "NumeroCeldas": "1",
+                "Duracion": "hasta 21 h"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": "1920 x 1080"
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": true
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Si"
-        },
-        "Bateria": {
-            "Celdas": 1,
-            "Duración": "hasta 21 h"
-        },
-        "Webcam": {
-            "Integrada": "Si",
-            "Resolución": "1920 x 1080"
-        },
-        "Teclado": {
-            "Numérico": "Si",
-            "Retroiluminado": "Si"
-        },
-        "Alimentador": ""
-    }
+        }
+    ]
 }

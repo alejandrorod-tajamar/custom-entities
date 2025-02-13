@@ -1,33 +1,33 @@
 {
     "Productos": [
         {
-            "Marca": "Apple",
-            "Nombre": "MX2G3Y/A",
-            "SistemaOperativo": "Version S.O. macOS Ventura",
+            "Marca": "",
+            "Nombre": "",
+            "SistemaOperativo": "",
             "Procesador": {
-                "Familia": "Apple M",
-                "Modelo": "M4 Max",
-                "Fabricante": "Apple",
+                "Familia": "",
+                "Modelo": "",
+                "Fabricante": "",
                 "Frecuencia": "",
                 "DetallesAdicionales": {}
             },
             "RAM": {
-                "Instalada": "36 GB",
-                "Maxima": "36 GB",
+                "Instalada": "",
+                "Maxima": "",
                 "Libres": "",
                 "Velocidad": "",
-                "Tecnologia": "n.d."
+                "Tecnologia": ""
             },
             "DiscoDuro": {
-                "Tamaño": "1.064 GB",
-                "Tipo": "SSD",
-                "Interfaz": "Non presente",
-                "NumeroSoportes": "0",
+                "Tamaño": "",
+                "Tipo": "",
+                "Interfaz": "",
+                "NumeroSoportes": "",
                 "DetallesAdicionales": {}
             },
             "TarjetaGrafica": {
-                "Integrada": true,
-                "Fabricante": "Apple",
+                "Integrada": false,
+                "Fabricante": "",
                 "Modelo": "",
                 "Memoria": "",
                 "DetallesAdicionales": {}
@@ -38,19 +38,17 @@
                 "Ancho": "",
                 "Profundidad": ""
             },
-            "Codigo": "MX2G3Y/A",
-            "Precio": "3.849,00 €",
+            "Codigo": "",
+            "Precio": "",
             "Pantalla": {
-                "Tamaño": "14,2 \"",
+                "Tamaño": "",
                 "Tactil": false,
-                "Tipo": "QLED",
-                "Resolucion": "3024 x 1964",
-                "DetallesAdicionales": {
-                    "Superficie": "Mate"
-                }
+                "Tipo": "",
+                "Resolucion": "",
+                "DetallesAdicionales": {}
             },
             "General": {
-                "Color": "Plata",
+                "Color": "",
                 "TPM": false,
                 "DetallesAdicionales": {}
             },
@@ -62,7 +60,7 @@
                 "Otros": {}
             },
             "Audio": {
-                "Micrófono": true,
+                "Micrófono": false,
                 "DetallesAdicionales": {}
             },
             "Bateria": {
@@ -70,7 +68,7 @@
                 "Duracion": ""
             },
             "Webcam": {
-                "Integrada": true,
+                "Integrada": false,
                 "Resolucion": ""
             },
             "Teclado": {

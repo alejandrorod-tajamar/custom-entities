@@ -1,72 +1,87 @@
 {
-    "Producto": {
-        "Marca": "Lenovo",
-        "Nombre": "Lenovo 14e Chr",
-        "Codigo": "82M1000NSP",
-        "Precio": "608,21 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. ChromeOS",
-        "Procesador": {
-            "Familia": "AMD 3000",
-            "Modelo": "3015Ce",
-            "Fabricante": "AMD",
-            "Frecuencia": "2,3 GHZ"
-        },
-        "RAM": {
-            "Instalada": "4 GB",
-            "Máxima": "4 GB",
-            "BancosLibres": 0,
-            "Velocidad": "1.600 MHZ",
-            "Tecnología": "DDR4"
-        },
-        "DiscoDuro": {
-            "Capacidad": "32 GB",
-            "Tipo": "eMMC",
-            "Interfaz": "eMMC",
-            "NúmeroSoportes": 1
-        },
-        "TarjetaGrafica": {
-            "Tipo": "Integrada",
-            "Fabricante": "AMD",
-            "Modelo": "AMD Radeon Graphics",
-            "Memoria": "0 mb"
-        },
-        "Pantalla": {
-            "Tamaño": "14\"",
-            "Táctil": "No",
-            "Tipo": "IPS",
-            "Resolución": "1920 x 1080",
-            "Superficie": "n/d"
-        },
-        "Batería": {
-            "NúmeroCeldas": 1
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Si"
-        },
-        "Webcam": {
-            "Integrada": "Si"
-        },
-        "Teclado": "",
-        "Alimentador": ""
-    },
-    "DimensionesPeso": {
-        "Peso": "1,45 kg",
-        "Altura": "325 cm",
-        "Ancho": "223 cm",
-        "Profundidad": "17,7 cm"
-    },
-    "Conexiones": {
-        "ConexiónRedMóvil": "No",
-        "Ethernet": "No presente",
-        "PuertoVGA": "No",
-        "Bluetooth": "Si",
-        "PuertoThunderbolt": "No",
-        "PuertoHDMI": "Si"
-    },
-    "General": {
-        "Color": "Gris",
-        "TPM": "No"
-    }
+    "Productos": [
+        {
+            "Marca": "Lenovo",
+            "Nombre": "Lenovo 14e Chr",
+            "SistemaOperativo": "Version S.O. ChromeOS",
+            "Procesador": {
+                "Familia": "AMD 3000",
+                "Modelo": "3015Ce",
+                "Fabricante": "AMD",
+                "Frecuencia": "2,3 GHZ",
+                "DetallesAdicionales": {}
+            },
+            "RAM": {
+                "Instalada": "4 GB",
+                "Maxima": "4 GB",
+                "Libres": "0",
+                "Velocidad": "1.600 MHZ",
+                "Tecnologia": "DDR4"
+            },
+            "DiscoDuro": {
+                "Tamaño": "32 GB",
+                "Tipo": "eMMC",
+                "Interfaz": "eMMC",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "AMD",
+                "Modelo": "AMD Radeon Graphics",
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,45 kg",
+                "Altura": "325 cm",
+                "Ancho": "223 cm",
+                "Profundidad": "17,7 cm"
+            },
+            "Codigo": "82M1000NSP",
+            "Precio": "608,21 €",
+            "Pantalla": {
+                "Tamaño": "14\"",
+                "Tactil": false,
+                "Tipo": "IPS",
+                "Resolucion": "1920 x 1080",
+                "DetallesAdicionales": {}
+            },
+            "General": {
+                "Color": "Gris",
+                "TPM": false,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {},
+                "Bluetooth": true,
+                "Otros": {
+                    "Puerto HDMI": true,
+                    "Porte VGA": false,
+                    "Puerto Thunderbolt": false
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "1",
+                "Duracion": ""
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
+            }
+        }
+    ]
 }

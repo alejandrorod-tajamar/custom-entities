@@ -1,106 +1,110 @@
 {
-    "Producto": {
-        "Marca": "DELLTechnologies",
-        "Nombre": "Dell XPS 14 9440U7",
-        "Codigo": "DTPF3",
-        "Precio": "2.628,52 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Pro Bit S.O. 64",
-        "Procesador": {
-            "Familia": "Intel Core Ultra 7",
-            "Modelo": "155H",
-            "Fabricante": "Intel",
-            "Generación": "Intel Core Ultra (Series 1)",
-            "Núcleos": 16,
-            "FrecuenciaTurbo": "4,8 GHz"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Máxima": "32 GB",
-            "Tecnología": "LPDDR5X",
-            "Tipo": "On-board"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.000 GB",
-            "Tipo": "SSD",
-            "Interfaz": "NVMe",
-            "NúmeroSoportes": 1
-        },
-        "TarjetaGrafica": {
-            "Integrada": "Sí",
-            "Fabricante": "Nvidia",
-            "Modelo": "Geforce RTX 4050"
-        },
-        "Pantalla": {
-            "Tamaño": "14,5 pulgadas",
-            "Táctil": "Sí",
-            "Tipo": "OLED",
-            "Resolución": "3200 x 2000",
-            "Luminosidad": 400,
-            "Contraste": "1.000.000:1",
-            "Tipologia": "HD 3.2K",
-            "Retroiluminación": "Sí",
-            "TiempoRefresco": 120,
-            "EspacioColor": "DCI-P3"
-        },
-        "DimensionesPeso": {
-            "Peso": "1,74 kg",
-            "Altura": "1,8 cm",
-            "Ancho": "32 cm",
-            "Profundidad": "21,6 cm"
-        },
-        "Bateria": {
-            "NúmeroCeldas": 6,
-            "Capacidad": "69,5 Wh"
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Sí",
-            "AltavocesFabricante": "Waves"
-        },
-        "Webcam": {
-            "Integrada": "Sí",
-            "Resolución": "1920 x 1080",
-            "Infrarrojos": "Sí",
-            "Tipo": "HD Full HD"
-        },
-        "Teclado": {
-            "Numérico": "No",
-            "Retroiluminado": "Sí"
-        },
-        "Alimentador": {
-            "PotenciaAdaptadorAC": 100
-        },
-        "General": {
-            "Color": "Gris",
-            "TPM": "Sí",
-            "MaterialChasis": "Aluminio",
-            "DetecciónHuellaDactilar": "Sí",
-            "2en1": "No",
-            "Convertibili": "No"
-        },
-        "Conexiones": {
-            "RedMóvil": "No",
-            "USB": {
-                "TotalPuertos": 0,
-                "USB2.0": 0,
-                "USB3.2Gen1": 0
+    "Productos": [
+        {
+            "Marca": "DELLTechnologies",
+            "Nombre": "Dell XPS 14 9440U7",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro Bit S.O. 64",
+            "Procesador": {
+                "Familia": "Intel Core Ultra",
+                "Modelo": "155H",
+                "Fabricante": "Intel",
+                "Frecuencia": "4,8",
+                "DetallesAdicionales": {
+                    "Generacion": "Intel Core Ultra (Series 1)",
+                    "NumeroNucleos": "16"
+                }
             },
-            "Ethernet": "No presente",
-            "VGA": "No",
-            "Bluetooth": "Sí",
-            "Puertos": {
-                "Thunderbolt": "Sí",
-                "HDMI": "Sí",
-                "HDMI Micro": "No",
-                "DisplayPort": "No",
-                "MiniDisplayPort": "No",
-                "DockstationFabricante": "No"
+            "RAM": {
+                "Instalada": "32",
+                "Maxima": "32",
+                "Libres": "",
+                "Velocidad": "",
+                "Tecnologia": "LPDDR5X"
             },
-            "Wireless": {
-                "Estándar": "Wifi 6E (802.11ax)",
-                "TipoPuertoCarga": "USB Type-C"
+            "DiscoDuro": {
+                "Tamaño": "1.000",
+                "Tipo": "SSD",
+                "Interfaz": "NVMe",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "Nvidia",
+                "Modelo": "Geforce RTX 4050",
+                "Memoria": "",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,74 kg",
+                "Altura": "1,8 cm",
+                "Ancho": "32",
+                "Profundidad": "21,6 cm"
+            },
+            "Codigo": "DTPF3",
+            "Precio": "2.628,52 €",
+            "Pantalla": {
+                "Tamaño": "14,5",
+                "Tactil": true,
+                "Tipo": "OLED",
+                "Resolucion": "3200 x 2000",
+                "DetallesAdicionales": {
+                    "Luminosidad": "400",
+                    "Contraste": "1.000.000",
+                    "Tipologia": "HD 3.2K",
+                    "Retroiluminacion": "Yes",
+                    "TiempoMaximoRefresco": "120",
+                    "EspacioColor": "RGB DCI-P3"
+                }
+            },
+            "General": {
+                "Color": "Gris",
+                "TPM": true,
+                "DetallesAdicionales": {
+                    "MaterialChasis": "Aluminio",
+                    "DeteccionHuellaDactilar": true,
+                    "PotenciaAdaptadorAC": "100",
+                    "Detachable": false,
+                    "Convertibili": false
+                }
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "Total": "0",
+                    "USB2.0": "0",
+                    "USB3.2": "0"
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "PuertoThunderbolt": true,
+                    "PuertoHDMI": true,
+                    "Wireless": "Wifi 6E (802.11ax)",
+                    "TipoPuertoCarga": "USB Type-C"
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {
+                    "AltavocesFabricante": "Waves"
+                }
+            },
+            "Bateria": {
+                "NumeroCeldas": "6",
+                "Duracion": "69,5"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": "1920 x 1080"
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": true
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
         }
-    }
+    ]
 }

@@ -1,117 +1,121 @@
 {
-    "Producto": {
-        "Marca": "SAMSUNG",
-        "Nombre": "GALAXY BOOK4 ULTRA",
-        "Codigo": "NP960XGL-XG2ES",
-        "Precio": "3.247,24 €",
-        "Tipo": "Ultrabook",
-        "Color": "Moonstone Grey",
-        "Material": "Aluminio + Magnesio",
-        "General": {
+    "Productos": [
+        {
+            "Marca": "SAMSUNG",
+            "Nombre": "GALAXY BOOK4 ULTRA",
             "SistemaOperativo": "Version S.O. Windows 11 Home Software incluido Galaxy Productivity: Control y Colaboración Galaxy Book Experience experiencia fácil multidispositivo",
-            "DetecciónHuellaDactilar": "Si",
-            "2en1": {
-                "Detachable": "No",
-                "Convertibilidad": "No"
-            },
-            "CarcasaParaCableDeSeguridad": "No"
-        },
-        "DimensionesPeso": {
-            "PesoSinEmbalaje": "1,86 kg",
-            "Altura": "25,05 cm",
-            "Ancho": "35,54 cm",
-            "Profundidad": "1,65 cm"
-        },
-        "Rendimiento": {
             "Procesador": {
                 "Familia": "intel Core Ultra 9",
                 "Modelo": "185H",
                 "Fabricante": "Intel",
-                "Frecuencia": {
-                    "Normal": "1,4 GHz",
-                    "Turbo": "5,1 GHz"
+                "Frecuencia": "1,4 GHz",
+                "DetallesAdicionales": {
+                    "FrecuenciaTurbo": "5,1 GHz"
                 }
             },
             "RAM": {
                 "Instalada": "32GB",
                 "Maxima": "32GB",
-                "BancosLibres": 0,
+                "Libres": "0",
                 "Velocidad": "7.467 MHz",
-                "Tecnologia": "LPDDR5X",
-                "Tipo": "SO-DIMM"
+                "Tecnologia": "LPDDR5X"
             },
             "DiscoDuro": {
-                "Capacidad": "1.000 GB",
+                "Tamaño": "1.000 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NumeroDeSoportes": 1
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
             },
             "TarjetaGrafica": {
-                "Integrada": "No",
+                "Integrada": false,
                 "Fabricante": "Nvidia",
                 "Modelo": "GeForce RTX 4070",
-                "Memoria": "12.228 mb"
-            }
-        },
-        "Pantalla": {
-            "Tamaño": "16\"",
-            "Tactil": "Si",
-            "Tipo": "AMOLED",
-            "Resolución": "2880 x 1800",
-            "Superficie": "Mate"
-        },
-        "Conexiones": {
-            "ConexiónRedMóvil": "No",
-            "NºTotalPuertosUSB": 3,
-            "PuertosUSB": {
-                "USB32Gen1": {
-                    "Cantidad": 1,
-                    "Tipo": "Type-A (5 Gbps)"
-                },
-                "USB32Gen2x2": {
-                    "Cantidad": 2,
-                    "Tipo": "Type-C (20 Gbps)"
+                "Memoria": "12.228 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,86 kg",
+                "Altura": "25,05 cm",
+                "Ancho": "35,54 cm",
+                "Profundidad": "1,65 cm"
+            },
+            "Codigo": "NP960XGL-XG2ES",
+            "Precio": "3.247,24 €",
+            "Pantalla": {
+                "Tamaño": "16\"",
+                "Tactil": true,
+                "Tipo": "AMOLED",
+                "Resolucion": "2880 x 1800",
+                "DetallesAdicionales": {
+                    "Superficie": "Mate"
                 }
             },
-            "Ethernet": "No present",
-            "PuertosVGA": "No",
-            "Bluetooth": {
-                "Soporte": "Si",
-                "Versión": "5.3"
+            "General": {
+                "Color": "Moonstone Grey",
+                "TPM": true,
+                "DetallesAdicionales": {
+                    "TipoProducto": "Ultrabook",
+                    "MaterialChasis": "Aluminio + Magnesio",
+                    "DeteccionHuella": true,
+                    "Detachable": false,
+                    "Convertibili": false,
+                    "CarcasaCableSeguridad": false
+                }
             },
-            "Thunderbolt": "No",
-            "PuertoHDMI": {
-                "Presente": "Si",
-                "MicroHDMI": "No"
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "Total": 3,
+                    "PuertosUSB": [
+                        {
+                            "Tipo": "3.2 Gen 1 SuperSpeed",
+                            "Velocidad": "5 Gbps",
+                            "Cantidad": 1,
+                            "Conector": "Type-A"
+                        },
+                        {
+                            "Tipo": "3.2 Gen 2x2 SuperSpeed",
+                            "Velocidad": "20 Gbps",
+                            "Cantidad": 1,
+                            "Conector": "Type-C"
+                        },
+                        {
+                            "Tipo": "3.2 Gen 2x2 SuperSpeed",
+                            "Velocidad": "20 Gbps",
+                            "Cantidad": 2,
+                            "Conector": "Type-C"
+                        }
+                    ]
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "BluetoothVersion": "5,3",
+                    "PuertoHDMI": true,
+                    "WirelessStandard": "Wifi 6E (802.11ax)",
+                    "DetallesAdicionales": "El HDMI es 2.1 (Supports 8K@60Hz, 5K@120Hz), los dos USB-C son Thunderbolt 4, Headphone out/Mic-in Combo, Tipo de puerto de carga USB Type-C"
+                }
             },
-            "DisplayPort": "No",
-            "MiniDisplayPort": "No",
-            "ConexiónDockstation": "No",
-            "Wireless": {
-                "Standard": "Wifi 6E (802.11ax)"
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
             },
-            "OtrasConexiones": {
-                "HDMI": "2.1 (Supports 8K@60Hz, 5K@120Hz)",
-                "USB-C": "Thunderbolt 4",
-                "HeadphoneOutMicInCombo": "Si",
-                "TipoPuertoCarga": "USB Type-C"
+            "Bateria": {
+                "NumeroCeldas": "1",
+                "Duracion": "hasta 21 h"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": "1920 x 1080"
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": true
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Si"
-        },
-        "Bateria": {
-            "NúmeroDeCeldas": 1,
-            "DuraciónHasta": "21 h"
-        },
-        "Webcam": {
-            "Integrada": "Si",
-            "Resolución": "1920 x 1080"
-        },
-        "Teclado": {
-            "Numérico": "Si",
-            "Retroiluminado": "Si"
-        },
-        "Alimentador": ""
-    }
+        }
+    ]
 }

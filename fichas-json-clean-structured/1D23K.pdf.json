@@ -1,119 +1,120 @@
 {
-    "Producto": {
-        "Marca": "DELLTechnologies",
-        "Nombre": "Dell Inspiron 3030 Desktop",
-        "Codigo": "1D23K",
-        "Precio": "674,33 €",
-        "General": {
-            "FactorForma": "Tower",
-            "ColorPrimario": "Azul",
-            "Teclado": "Standard USB",
-            "Ratón": "Óptico USB",
-            "Altavoces": "No",
-            "Refrigeración": "líquida No",
-            "Wireless": {
-                "WiFi": "Wi-Fi 5 (802.11ac)",
-                "Bluetooth": "Si"
-            },
-            "OrdenCodigo": "Sin unidad óptica"
-        },
-        "Sistema": {
-            "SistemaOperativo": "Sistema operativo Windows 11 Versión sistema operativo Professional Imagen Precargada de Office (activable con PKC) trial Duracion antivirus incluido 12 months"
-        },
-        "Hardware": {
+    "Productos": [
+        {
+            "Marca": "DELLTechnologies",
+            "Nombre": "Dell Inspiron 3030 Desktop",
+            "SistemaOperativo": "Sistema operativo Windows 11 Versión sistema operativo Professional Imagen Precargada de Office (atcivabile con PKC) trial Duracion antivirus incluido 12 months",
             "Procesador": {
                 "Familia": "Intel Core i5",
                 "Modelo": "i5-12400",
-                "VelocidadClock": "2,5 GHZ",
                 "Fabricante": "Intel",
-                "CacheTotal": "18 MB"
+                "Frecuencia": "2,5 GHZ",
+                "DetallesAdicionales": {
+                    "CachéTotal": "18 MB"
+                }
             },
             "RAM": {
                 "Instalada": "8 GB",
-                "Tecnología": "DDR5",
-                "Máxima": "64 GB",
-                "BancosLibres": 1,
-                "Frecuencia": "4.800 MHZ",
-                "BancosTotales": 2,
-                "Tipología": "DIMM Dual Channel No"
+                "Maxima": "64 GB",
+                "Libres": "1",
+                "Velocidad": "4.800 MHZ",
+                "Tecnologia": "DDR5"
             },
             "DiscoDuro": {
                 "Tamaño": "512 GB",
                 "Tipo": "SSD",
                 "Interfaz": "M.2 PCIe NVMe",
-                "NúmeroSoportes": 1,
-                "TipologíaControlador": "M.2"
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {
+                    "TipologiaControlador": "M.2"
+                }
             },
             "TarjetaGrafica": {
-                "Modelo": "UHD Graphics",
-                "MemoriaDedicada": "0 MB",
-                "Integrada": "Si",
+                "Integrada": true,
                 "Fabricante": "Intel",
-                "ResoluciónMaxima": {
-                    "Ancho": "4.096 Px",
-                    "Altura": "2.160 Px"
+                "Modelo": "UHD Graphics",
+                "Memoria": "0 MB",
+                "DetallesAdicionales": {
+                    "ResolucionMaxima": {
+                        "Ancho": "4096 Px",
+                        "Altura": "2160 Px"
+                    }
                 }
             },
             "Dimensiones": {
+                "Peso": "7,05 Kg",
                 "Altura": "324,3 mm",
                 "Ancho": "154 mm",
-                "Profundidad": "292,8 mm",
-                "Peso": "7,05 Kg"
+                "Profundidad": "292,8 mm"
+            },
+            "Codigo": "1D23K",
+            "Precio": "674,33 €",
+            "Pantalla": {
+                "DetallesAdicionales": {}
+            },
+            "General": {
+                "Color": "Primario Azul",
+                "TPM": false,
+                "DetallesAdicionales": {
+                    "FactorForma": "Tower",
+                    "Wireless": "Wi-Fi 5 (802.11ac)",
+                    "Bluetooth": "Si",
+                    "Teclado": "Standard Usb",
+                    "Ratón": "Optico USB",
+                    "RefrigeracionLiquida": "No",
+                    "Altavoces": "No",
+                    "OrderCode": "Sin unidad óptica"
+                }
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "TotalConectores": "10",
+                    "TotalPuertosUSB": "8",
+                    "PuertosUSBPosteriores": "4",
+                    "PuertosUSBFrontales": "4",
+                    "PuertosUSB2.0": "4",
+                    "PuertosUSB3.2Gen1": "3",
+                    "PuertosUSB3.2Gen2": "0",
+                    "PCI": "0",
+                    "PCIExpress1x": "0",
+                    "PCIExpress16x": "0",
+                    "PuertosSerie": "0",
+                    "AudioFrontal": "1",
+                    "AudioPosterior": "1",
+                    "Ps2": "0",
+                    "PuertosHDMI": "1",
+                    "PuertosMiniHDMI": "0",
+                    "PuertosVGA": "0",
+                    "PuertosDisplayPort": "1",
+                    "PuertosDVI-I": "0",
+                    "PuertosDVI-D": "0",
+                    "PuertosSATA": "2",
+                    "SocketM.2": "0"
+                },
+                "Bluetooth": true,
+                "Otros": {}
+            },
+            "Audio": {
+                "Micrófono": false,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "",
+                "Duracion": ""
+            },
+            "Webcam": {
+                "Integrada": false,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
             },
             "Alimentador": {
                 "Potencia": "300 W"
             }
-        },
-        "Conexiones": {
-            "TotalConectores": 10,
-            "TotalPuertosUSB": 8,
-            "PuertosUSB": {
-                "Posteriores": 4,
-                "Frontales": 4,
-                "USB2.0": {
-                    "Tipo": "High Speed Type-A",
-                    "Cantidad": 4
-                },
-                "USB3.2": {
-                    "Gen1": {
-                        "Tipo": "SuperSpeed (5 Gbps) Type-A",
-                        "Cantidad": 3
-                    },
-                    "Gen2": {
-                        "Tipo": "SuperSpeed+ (10 Gbps) Type-A",
-                        "Cantidad": 0
-                    }
-                }
-            },
-            "PCI": {
-                "Total": 0,
-                "PCIExpress1x": 0,
-                "PCIExpress16x": 0
-            },
-            "PuertosAudio": {
-                "Frontales": 1,
-                "Posteriores": 1
-            },
-            "OtrosPuertos": {
-                "HDMI": 1,
-                "MiniHDMI": 0,
-                "VGA": 0,
-                "DisplayPort": 1,
-                "DVI": {
-                    "D": 0,
-                    "I": 0
-                },
-                "SATA3.0": 0,
-                "SocketM2": {
-                    "TotalParaSSD": 0,
-                    "Otros": 0
-                }
-            }
-        },
-        "Audio": "",
-        "Bateria": "",
-        "Webcam": "",
-        "Pantalla": "",
-        "Teclado": ""
-    }
+        }
+    ]
 }

@@ -1,74 +1,91 @@
 {
-    "Producto": {
-        "Marca": "Lenovo",
-        "Nombre": "Lenovo Ideapad 1 15ALC7",
-        "Codigo": "82R400WTSP",
-        "Precio": "604,33 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Home",
-        "Procesador": {
-            "Familia": "AMD Ryzen 5",
-            "Modelo": "Ryzen 5 5625U",
-            "Fabricante": "AMD",
-            "Frecuencia": "4,3 GHZ"
-        },
-        "RAM": {
-            "Instalada": "16 GB",
-            "Maxima": "16 GB",
-            "BancosLibres": 0,
-            "Velocidad": "3.200 MHz",
-            "Tecnologia": "DDR4"
-        },
-        "DiscoDuro": {
-            "Capacidad": "512 GB",
-            "Tipo": "SSD",
-            "Interfaz": "PCI Express 4.0",
-            "NumeroSoportes": 1
-        },
-        "TarjetaGrafica": {
-            "Integrada": "No",
-            "Fabricante": "AMD",
-            "Modelo": "AMD Radeon Graphics",
-            "Memoria": "0 mb"
-        },
-        "DimensionesPeso": {
-            "Peso": "1,61 kg",
-            "Altura": "1,79 cm",
-            "Ancho": "23,6 cm",
-            "Profundidad": "36,02 cm"
-        },
-        "Pantalla": {
-            "Tamaño": "15,6 \"",
-            "Tactil": "No",
-            "Tipo": "IPS",
-            "Resolucion": "1920 x 1080",
-            "Superficie": "n/d"
+    "Productos": [
+        {
+            "Marca": "Lenovo",
+            "Nombre": "Lenovo Ideapad 1 15ALC7",
+            "SistemaOperativo": "Version S.O. Windows 11 Home",
+            "Procesador": {
+                "Familia": "AMD Ryzen 5",
+                "Modelo": "Ryzen 5 5625U",
+                "Fabricante": "AMD",
+                "Frecuencia": "4,3 GHZ",
+                "DetallesAdicionales": {}
+            },
+            "RAM": {
+                "Instalada": "16 GB",
+                "Maxima": "16 GB",
+                "Libres": "0",
+                "Velocidad": "3.200 MHz",
+                "Tecnologia": "DDR4"
+            },
+            "DiscoDuro": {
+                "Tamaño": "512 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {
+                    "Generacion": "4.0"
+                }
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "AMD",
+                "Modelo": "AMD Radeon Graphics",
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,61 kg",
+                "Altura": "1,79 cm",
+                "Ancho": "23,6 cm",
+                "Profundidad": "36,02 cm"
+            },
+            "Codigo": "82R400WTSP",
+            "Precio": "604,33 €",
+            "Pantalla": {
+                "Tamaño": "15,6 \"",
+                "Tactil": false,
+                "Tipo": "IPS",
+                "Resolucion": "1920 x 1080",
+                "DetallesAdicionales": {}
+            },
+            "General": {
+                "Color": "Gris",
+                "TPM": false,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "PortNum": "No especificado"
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "Puerto VGA": false,
+                    "Puerto Thunderbolt": false,
+                    "Puerto HDMI": true
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "3",
+                "Duracion": ""
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
+            }
         }
-    },
-    "Conectividad": {
-        "Conexiones": {
-            "RedMovil": "No",
-            "Ethernet": "No presente",
-            "VGA": "No",
-            "Bluetooth": "Si",
-            "Thunderbolt": "No",
-            "HDMI": "Si"
-        }
-    },
-    "Audio": {
-        "MicrófonoIntegrado": "Si"
-    },
-    "Bateria": {
-        "NumeroCeldas": 3
-    },
-    "Webcam": {
-        "Integrada": "Si"
-    },
-    "General": {
-        "Color": "Gris",
-        "TPM": "No"
-    },
-    "Teclado": "",
-    "Alimentador": ""
+    ]
 }

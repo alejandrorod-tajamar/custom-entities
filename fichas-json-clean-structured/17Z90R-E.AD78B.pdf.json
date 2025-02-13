@@ -1,88 +1,101 @@
 {
-    "Producto": {
-        "Marca": "LG",
-        "Nombre": "LG gram 17Z90R",
-        "Codigo": "17Z90R-E.AD78B",
-        "Precio": "2.205,78 €"
-    },
-    "Sistema": {
-        "SistemaOperativo": "Version S.O. Windows 11 Home",
-        "Procesador": {
-            "Familia": "Intel Core i7",
-            "Modelo": "i7-1360P",
-            "Fabricante": "Intel",
-            "Frecuencia": "2,2 GHz"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Maxima": "32 GB",
-            "BancosLibres": 0,
-            "Velocidad": "6.000 MHz",
-            "Tecnologia": "LPDDR5"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.000 GB",
-            "Tipo": "SSD",
-            "Interfaz": "PCI Express 4.0",
-            "NumeroSoportes": 1
-        }
-    },
-    "Gráfica": {
-        "Integrada": "Si",
-        "Fabricante": "Intel",
-        "Modelo": "RTX™ 3050 Ti",
-        "Memoria": "18 MB"
-    },
-    "Dimensiones": {
-        "Peso": "1,45 kg",
-        "Altura": "25,88 cm",
-        "Ancho": "37,88 cm",
-        "Profundidad": "1,78 cm"
-    },
-    "Pantalla": {
-        "Tamaño": "17\"",
-        "Táctil": "No",
-        "Tipo": "IPS",
-        "Resolución": "2560 x 1600",
-        "Superficie": "Mate"
-    },
-    "Conexiones": {
-        "RedMovil": "No",
-        "PuertosUSB": {
-            "Total": 4,
-            "USB3.2Gen1": {
-                "Cantidad": 2,
-                "Tipo": "Type-A",
-                "Velocidad": "5 Gbps"
+    "Productos": [
+        {
+            "Marca": "LG",
+            "Nombre": "LG gram 17Z90R",
+            "SistemaOperativo": "Version S.O. Windows 11 Home",
+            "Procesador": {
+                "Familia": "Intel Core i7",
+                "Modelo": "i7-1360P",
+                "Fabricante": "Intel",
+                "Frecuencia": "2,2 GHz",
+                "DetallesAdicionales": {}
             },
-            "USB3.2Gen2x2": {
-                "Cantidad": 2,
-                "Tipo": "Type-C",
-                "Velocidad": "20 Gbps"
+            "RAM": {
+                "Instalada": "32 GB",
+                "Maxima": "32 GB",
+                "Libres": "0",
+                "Velocidad": "6.000 MHz",
+                "Tecnologia": "LPDDR5"
+            },
+            "DiscoDuro": {
+                "Tamaño": "1.000 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express 4.0",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "Intel",
+                "Modelo": "RTX™ 3050 Ti",
+                "Memoria": "18 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,45 kg",
+                "Altura": "25,88 cm",
+                "Ancho": "37,88 cm",
+                "Profundidad": "1,78 cm"
+            },
+            "Codigo": "17Z90R-E.AD78B",
+            "Precio": "2.205,78 €",
+            "Pantalla": {
+                "Tamaño": "17\"",
+                "Tactil": false,
+                "Tipo": "IPS",
+                "Resolucion": "2560 x 1600",
+                "DetallesAdicionales": {
+                    "Superficie": "Mate"
+                }
+            },
+            "General": {
+                "Color": "Negro",
+                "TPM": true,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "Total": 4,
+                    "Detalles": [
+                        {
+                            "Tipo": "USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A",
+                            "Cantidad": 2
+                        },
+                        {
+                            "Tipo": "USB 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C",
+                            "Cantidad": 2
+                        }
+                    ]
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "Puerto Thunderbolt": true,
+                    "Puerto HDMI": true,
+                    "Puerto VGA": false
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "4",
+                "Duracion": "hasta 20 h"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": "1920 x 1080"
+            },
+            "Teclado": {
+                "NumeroTeclas": "101",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
-        },
-        "Ethernet": "No presente",
-        "PorteVGA": "No",
-        "Bluetooth": "Si",
-        "Puertos": {
-            "Thunderbolt": "Si",
-            "HDMI": "Si"
         }
-    },
-    "Audio": {
-        "MicrófonoIntegrado": "Si"
-    },
-    "Batería": {
-        "NúmeroCeldas": 4,
-        "Duración": "hasta 20 h"
-    },
-    "Webcam": {
-        "Integrada": "Si",
-        "Resolución": "1920 x 1080"
-    },
-    "Teclado": {
-        "NumeroDeTeclas": 101,
-        "TecladoNumérico": "Si"
-    },
-    "Alimentador": ""
+    ]
 }

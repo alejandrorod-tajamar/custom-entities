@@ -1,89 +1,103 @@
 {
-    "Producto": {
-        "Marca": "Lenovo",
-        "Nombre": "Lenovo ThinkPad X1 2-in-1 Gen 9",
-        "Codigo": "21KE003JSP",
-        "Precio": "2.788,24 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Pro Software Incluido Windows® 11 Pro, Spanish",
-        "Procesador": {
-            "Familia": "Intel Core Ultra 7",
-            "Modelo": "155U",
-            "Fabricante": "Intel",
-            "Frecuencia": "4,8 GHZ"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Maxima": "32 GB",
-            "BancosLibres": 0,
-            "Velocidad": "6.400 MHZ",
-            "Tecnologia": "LPDDR5"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.024 GB",
-            "Tipo": "SSD",
-            "Interfaz": "PCI Express 4.0",
-            "Velocidad": "2.280 rpm",
-            "Numero": 1
-        },
-        "TarjetaGrafica": {
-            "GráficaIntegrada": "No",
-            "Fabricante": "Intel",
-            "Modelo": "Intel Graphics",
-            "Memoria": "0 mb"
-        },
-        "Dimensiones": {
-            "Peso": "1,35 kg",
-            "Altura": "31,28 cm",
-            "Ancho": "1,55 cm",
-            "Profundidad": "21,76 cm"
-        },
-        "Pantalla": {
-            "Tamaño": "14\"",
-            "Táctil": "Si",
-            "Tipo": "IPS",
-            "Resolución": "2880 x 1800",
-            "Superficie": "Mate",
-            "Luminosidad": "400 cd/m2"
-        },
-        "Conexiones": {
-            "RedMovil": "Si",
-            "Ethernet": "No presente",
-            "VGA": "No",
-            "Bluetooth": "Si",
-            "Thunderbolt": "Si",
-            "HDMI": "Si",
-            "OtrasConexiones": {
-                "WWAN": "Quectel RM520N-GL, 5G Sub-6 GHz, with Embedded eSIM",
-                "SIMCard": "NO",
-                "NFC": "No",
-                "StandardPorts": [
-                    "1x USB-A (USB 5Gbps / USB 3.2 Gen 1)",
-                    "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On",
-                    "2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1",
-                    "1x HDMI® 2.1, up to 4K/60Hz",
-                    "1x Headphone / microphone combo jack (3.5mm)"
-                ],
-                "OptionalPorts": [
-                    "1x Nano-SIM Card Slot"
-                ]
+    "Productos": [
+        {
+            "Marca": "Lenovo",
+            "Nombre": "Lenovo ThinkPad X1 2-in-1 Gen 9",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro Software Incluido Windows® 11 Pro, Spanish",
+            "Procesador": {
+                "Familia": "Intel Core Ultra 7",
+                "Modelo": "155U",
+                "Fabricante": "Intel",
+                "Frecuencia": "4,8 GHZ",
+                "DetallesAdicionales": {}
+            },
+            "RAM": {
+                "Instalada": "32 GB",
+                "Maxima": "32 GB",
+                "Libres": "0",
+                "Velocidad": "6.400 MHZ",
+                "Tecnologia": "LPDDR5"
+            },
+            "DiscoDuro": {
+                "Tamaño": "1.024 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express 4.0",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {
+                    "Velocidad": "2.280 rpm"
+                }
+            },
+            "TarjetaGrafica": {
+                "Integrada": false,
+                "Fabricante": "Intel",
+                "Modelo": "Intel Graphics",
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,35 kg",
+                "Altura": "31,28 cm",
+                "Ancho": "1,55 cm",
+                "Profundidad": "21,76 cm"
+            },
+            "Codigo": "21KE003JSP",
+            "Precio": "2.788,24 €",
+            "Pantalla": {
+                "Tamaño": "14\"",
+                "Tactil": true,
+                "Tipo": "IPS",
+                "Resolucion": "2880 x 1800",
+                "DetallesAdicionales": {
+                    "Superficie": "Mate",
+                    "Luminosidad": "400 cd/m2"
+                }
+            },
+            "General": {
+                "Color": "Gris",
+                "TPM": true,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": true,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "Standard Ports": [
+                        "1x USB-A (USB 5Gbps / USB 3.2 Gen 1)",
+                        "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On",
+                        "2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1",
+                        "1x HDMI® 2.1, up to 4K/60Hz",
+                        "1x Headphone / microphone combo jack (3.5mm)"
+                    ],
+                    "Optional Ports": [
+                        "1x Nano-SIM Card Slot"
+                    ]
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "WWAN": "Quectel RM520N-GL, 5G Sub-6 GHz, with Embedded eSIM",
+                    "SIM Card": "NO",
+                    "NFC": "NO"
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "3",
+                "Duracion": ""
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Si"
-        },
-        "Bateria": {
-            "NúmeroCeldas": 3
-        },
-        "Webcam": {
-            "Integrada": "Si"
-        },
-        "Teclado": {},
-        "Alimentador": {}
-    },
-    "General": {
-        "Color": "Gris",
-        "TPM": "Si"
-    }
+        }
+    ]
 }

@@ -1,78 +1,87 @@
 {
-    "Producto": {
-        "Marca": "LG",
-        "Nombre": "LG gram 16Z90R",
-        "Codigo": "16Z90R-E.AD78B",
-        "Precio": "2.130,00 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Home",
-        "Procesador": {
-            "Familia": "Intel Core i7",
-            "Modelo": "i7-1360P",
-            "Fabricante": "Intel",
-            "Frecuencia": "2,2 GHZ"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Máxima": "32 GB",
-            "BancosLibres": 0,
-            "Velocidad": "6.000 MHz",
-            "Tecnología": "LPDDR5"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.000 GB",
-            "Tipo": "SSD",
-            "Interfaz": "PCI Express 4.0",
-            "NúmeroSoportes": 2
-        },
-        "TarjetaGrafica": {
-            "Integrada": "No",
-            "Fabricante": "Nvidia",
-            "Modelo": "Iris Xe Graphics",
-            "Memoria": "0 mb"
-        },
-        "DimensionesPeso": {
-            "Peso": "1,2 kg",
-            "Altura": "35,51 cm",
-            "Ancho": "24,23 cm",
-            "Profundidad": "16,8 cm"
-        },
-        "Pantalla": {
-            "Tamaño": "16\"",
-            "Táctil": "No",
-            "Tipo": "IPS",
-            "Resolución": "2560 x 1600",
-            "Superficie": "n/d"
-        },
-        "General": {
-            "Color": "Negro",
-            "TPM": "Si"
-        },
-        "Conexiones": {
-            "RedMovil": "No",
-            "Ethernet": "10/100",
-            "PorteVGA": "No",
-            "Bluetooth": {
-                "Disponible": "Si",
-                "Versión": "5,1"
+    "Productos": [
+        {
+            "Marca": "LG",
+            "Nombre": "LG gram 16Z90R/",
+            "SistemaOperativo": "Version S.O. Windows 11 Home",
+            "Procesador": {
+                "Familia": "Intel Core i7",
+                "Modelo": "i7-1360P",
+                "Fabricante": "Intel",
+                "Frecuencia": "2,2 GHZ",
+                "DetallesAdicionales": {}
             },
-            "Puertos": {
-                "Thunderbolt": "Si",
-                "HDMI": "Si"
+            "RAM": {
+                "Instalada": "32 GB",
+                "Maxima": "32 GB",
+                "Libres": "0",
+                "Velocidad": "6.000 MHz",
+                "Tecnologia": "LPDDR5"
+            },
+            "DiscoDuro": {
+                "Tamaño": "1.000 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express 4.0",
+                "NumeroSoportes": "2",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "Nvidia",
+                "Modelo": "Iris Xe Graphics",
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,2 kg",
+                "Altura": "35,51 cm",
+                "Ancho": "24,23 cm",
+                "Profundidad": "16,8 cm"
+            },
+            "Codigo": "16Z90R-E.AD78B",
+            "Precio": "2.130,00 €",
+            "Pantalla": {
+                "Tamaño": "16\"",
+                "Tactil": false,
+                "Tipo": "IPS",
+                "Resolucion": "2560 x 1600",
+                "DetallesAdicionales": {}
+            },
+            "General": {
+                "Color": "Negro",
+                "TPM": true,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": true,
+                "PuertosUSB": {},
+                "Bluetooth": true,
+                "Otros": {
+                    "Bluetooth Version": "5,1",
+                    "Thunderbolt": true,
+                    "HDMI": true
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "4",
+                "Duracion": "hasta 13,5 h"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Si"
-        },
-        "Bateria": {
-            "NúmeroCeldas": 4,
-            "Duración": "hasta 13,5 h"
-        },
-        "Webcam": {
-            "Integrada": "Si"
-        },
-        "Teclado": "",
-        "Alimentador": ""
-    }
+        }
+    ]
 }

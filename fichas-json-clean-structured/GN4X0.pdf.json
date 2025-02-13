@@ -1,71 +1,86 @@
 {
-    "Producto": {
-        "Marca": "DELLTechnologies",
-        "Nombre": "Dell Latitude 9450 2-in-1 U7 165U",
-        "Código": "GN4X0",
-        "Precio": "2.542,61 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Pro",
-        "Procesador": {
-            "Familia": "Intel Core Ultra 7",
-            "Modelo": "164U",
-            "Fabricante": "Intel",
-            "Frecuencia": "4,4 GHZ"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Máxima": "32 GB",
-            "BancosLibres": 0,
-            "Velocidad": "7.467 MHZ",
-            "Tecnología": "DDR5"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.024 GB",
-            "Tipo": "SSD",
-            "Interfaz": "PCI Express 4.0",
-            "NúmeroSoportes": 1
-        },
-        "TarjetaGrafica": {
-            "GráficaIntegrada": "No",
-            "Fabricante": "Intel",
-            "Modelo": "UHD Graphics",
-            "Memoria": "0 mb"
-        },
-        "Dimensiones": {
-            "Peso": "1,54 kg",
-            "Altura": "1,28 cm",
-            "Ancho": "31,1 cm",
-            "Profundidad": "2,15 cm"
-        },
-        "Pantalla": {
-            "Tamaño": "14\"",
-            "Táctil": "Si",
-            "Tipo": "TFT",
-            "Resolución": "2560 x 1600"
-        },
-        "General": {
-            "Color": "Gris",
-            "TPM": "No"
-        },
-        "Conexiones": {
-            "RedMóvil": "Si",
-            "Ethernet": "10/100/1000",
-            "VGA": "No",
-            "Bluetooth": "Si",
-            "Thunderbolt": "Si",
-            "HDMI": "No"
-        },
-        "Audio": {
-            "MicrófonoIntegrado": "Si"
-        },
-        "Batería": {
-            "NúmeroCeldas": 3
-        },
-        "Webcam": {
-            "Integrada": "Si"
-        },
-        "Teclado": "",
-        "Alimentador": ""
-    }
+    "Productos": [
+        {
+            "Marca": "DELLTechnologies",
+            "Nombre": "Dell Latitude 9450 2-in-1 U7 165U",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro",
+            "Procesador": {
+                "Familia": "Intel Core Ultra 7",
+                "Modelo": "164U",
+                "Fabricante": "Intel",
+                "Frecuencia": "4,4 GHZ",
+                "DetallesAdicionales": {}
+            },
+            "RAM": {
+                "Instalada": "32 GB",
+                "Maxima": "32 GB",
+                "Libres": "0",
+                "Velocidad": "7.467 MHZ",
+                "Tecnologia": "DDR5"
+            },
+            "DiscoDuro": {
+                "Tamaño": "1.024 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express 4.0",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": false,
+                "Fabricante": "Intel",
+                "Modelo": "UHD Graphics",
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,54 kg",
+                "Altura": "1,28 cm",
+                "Ancho": "31,1 cm",
+                "Profundidad": "2,15 cm"
+            },
+            "Codigo": "GN4X0",
+            "Precio": "2.542,61 €",
+            "Pantalla": {
+                "Tamaño": "14\"",
+                "Tactil": true,
+                "Tipo": "TFT",
+                "Resolucion": "2560 x 1600",
+                "DetallesAdicionales": {}
+            },
+            "General": {
+                "Color": "Gris",
+                "TPM": false,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": true,
+                "Ethernet": true,
+                "PuertosUSB": {},
+                "Bluetooth": true,
+                "Otros": {
+                    "Puerto Thunderbolt": true,
+                    "Puerto HDMI": false
+                }
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "3",
+                "Duracion": ""
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
+            }
+        }
+    ]
 }

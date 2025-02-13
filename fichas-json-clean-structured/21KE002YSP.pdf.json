@@ -1,108 +1,101 @@
 {
-    "Producto": {
-        "Marca": "Lenovo",
-        "Nombre": "Lenovo ThinkPad X1 2-in-1 Gen 9",
-        "Código": "21KE002YSP",
-        "Precio": "2.546,24 €",
-        "General": {
-            "Color": "Gris",
-            "TrustedPlatformModule": "Si"
-        },
-        "SistemaOperativo": {
-            "Versión": "Windows 11 Pro",
-            "Idioma": "Spanish"
-        },
-        "Especificaciones": {
+    "Productos": [
+        {
+            "Marca": "Lenovo",
+            "Nombre": "Lenovo ThinkPad X1 2-in-1 Gen 9",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro Software Incluido Windows® 11 Pro, Spanish",
             "Procesador": {
-                "Familia": "Intel Core Ultra 7",
+                "Familia": "Procesador Intel Core Ultra 7",
                 "Modelo": "155U",
                 "Fabricante": "Intel",
-                "Frecuencia": "4,8 GHZ"
+                "Frecuencia": "4,8 GHZ",
+                "DetallesAdicionales": {}
             },
             "RAM": {
                 "Instalada": "16 GB",
-                "Máxima": "16 GB",
-                "BancosLibres": 0,
+                "Maxima": "16 GB",
+                "Libres": "0",
                 "Velocidad": "6.400 MHZ",
-                "Tecnología": "LPDDR5"
+                "Tecnologia": "LPDDR5"
             },
             "DiscoDuro": {
-                "Capacidad": "512 GB",
+                "Tamaño": "512 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "Velocidad": "2.280 rpm",
-                "NúmeroDeSoportes": 1
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {
+                    "Velocidad": "2.280 rpm"
+                }
             },
             "TarjetaGrafica": {
-                "GráficaIntegrada": "No",
+                "Integrada": false,
                 "Fabricante": "Intel",
                 "Modelo": "Intel Graphics",
-                "Memoria": "0 mb"
+                "Memoria": "0 mb",
+                "DetallesAdicionales": {}
             },
-            "DimensionesYPeso": {
-                "PesoSinEmbalaje": "1,35 kg",
+            "Dimensiones": {
+                "Peso": "1,35 kg",
                 "Altura": "31,28 cm",
                 "Ancho": "1,55 cm",
                 "Profundidad": "21,76 cm"
             },
+            "Codigo": "21KE002YSP",
+            "Precio": "2.546,24 €",
             "Pantalla": {
                 "Tamaño": "14\"",
-                "Táctil": "Si",
+                "Tactil": true,
                 "Tipo": "IPS",
-                "Resolución": "1920 x 1200",
-                "Superficie": "Mate",
-                "Luminosidad": "500 cd/m2"
+                "Resolucion": "1920 x 1200",
+                "DetallesAdicionales": {
+                    "Superficie": "Mate",
+                    "Luminosidad": "500 cd/m2"
+                }
             },
-            "Batería": {
-                "NúmeroDeCeldas": 3
+            "General": {
+                "Color": "Gris",
+                "TPM": true,
+                "DetallesAdicionales": {}
             },
-            "Webcam": {
-                "Integrada": "Si"
+            "Conexiones": {
+                "Movil": true,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "USB-A": [
+                        "1x USB-A (USB 5Gbps / USB 3.2 Gen 1)",
+                        "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On"
+                    ],
+                    "USB-C": "2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1",
+                    "HDMI": "1x HDMI® 2.1, up to 4K/60Hz",
+                    "Headphone": "1x Headphone / microphone combo jack (3.5mm)",
+                    "Nano-SIM": "1x Nano-SIM Card Slot"
+                },
+                "Bluetooth": true,
+                "Otros": {
+                    "WWAN": "Quectel EM160R-GL, 4G LTE CAT16, with Embedded eSIM",
+                    "SIM Card": "NO",
+                    "NFC": "Standard Ports"
+                }
             },
             "Audio": {
-                "MicrófonoIntegrado": "Si"
+                "Micrófono": true,
+                "DetallesAdicionales": {}
             },
-            "Teclado": {},
-            "Alimentador": {}
-        },
-        "Conexiones": {
-            "ConexiónRedMóvil": "Si",
-            "Ethernet": "No presente",
-            "PuertoVGA": "No",
-            "Bluetooth": "Si",
-            "PuertoThunderbolt": "Si",
-            "PuertoHDMI": "Si",
-            "OtrasConexiones": {
-                "WWAN": "Quectel EM160R-GL, 4G LTE CAT16, with Embedded eSIM",
-                "Nfc": "No",
-                "StandardPorts": [
-                    {
-                        "Type": "USB-A",
-                        "Configuración": "USB 5Gbps / USB 3.2 Gen 1"
-                    },
-                    {
-                        "Type": "USB-A",
-                        "Configuración": "USB 5Gbps / USB 3.2 Gen 1, Always On"
-                    },
-                    {
-                        "Type": "USB-C",
-                        "Configuración": "Thunderbolt™ 4 / USB4® 40Gbps, with USB PD 3.0 and DisplayPort™ 2.1"
-                    },
-                    {
-                        "Type": "HDMI",
-                        "Configuración": "HDMI® 2.1, up to 4K/60Hz"
-                    },
-                    {
-                        "Type": "ComboJack",
-                        "Configuración": "Headphone / microphone combo jack (3.5mm)"
-                    }
-                ],
-                "OptionalPorts": [
-                    {
-                        "Type": "Nano-SIM Card Slot"
-                    }
-                ]
+            "Bateria": {
+                "NumeroCeldas": "3",
+                "Duracion": ""
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": ""
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
             }
         }
-    }
+    ]
 }

@@ -1,77 +1,90 @@
 {
-    "Producto": {
-        "Marca": "Microsoft Surface",
-        "Nombre": "Microsoft Surface Laptop Studio 2",
-        "Código": "Z1T-00012",
-        "Precio": "3.785,26 €"
-    },
-    "Especificaciones": {
-        "SistemaOperativo": "Version S.O. Windows 11 Pro",
-        "Procesador": {
-            "Familia": "Intel Core i7",
-            "Modelo": "i7-13800H",
-            "Fabricante": "Intel",
-            "Frecuencia": "5,2 GHZ"
-        },
-        "RAM": {
-            "Instalada": "32 GB",
-            "Máxima": "32 GB",
-            "BancosLibres": 0,
-            "Velocidad": "4,27 MHz",
-            "Tecnología": "LPDDR5"
-        },
-        "DiscoDuro": {
-            "Capacidad": "1.000 GB",
-            "Tipo": "SSD",
-            "Interfaz": "SSD",
-            "NúmeroSoportes": 1
-        },
-        "TarjetaGrafica": {
-            "Integrada": true,
-            "Fabricante": "Intel",
-            "Modelo": "Geforce RTX 2050",
-            "Memoria": "0 mb"
-        },
-        "Pantalla": {
-            "Tamaño": "14,4 \"",
-            "Táctil": true,
-            "Tipo": "IPS",
-            "Resolución": "2496 x 1664",
-            "Brillo": "650 cd/m2",
-            "Contraste": "1.500:1"
-        },
-        "Dimensiones": {
-            "PesoSinEmbalaje": "1,98 kg",
-            "Altura": "2,2 cm",
-            "Ancho": "32,3 cm",
-            "Profundidad": "23 cm"
+    "Productos": [
+        {
+            "Marca": "Microsoft Surface",
+            "Nombre": "Microsoft Surface Laptop Studio 2",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro",
+            "Procesador": {
+                "Familia": "Intel Core i7",
+                "Modelo": "i7-13800H",
+                "Fabricante": "Intel",
+                "Frecuencia": "5,2 GHZ",
+                "DetallesAdicionales": {}
+            },
+            "RAM": {
+                "Instalada": "32 GB",
+                "Maxima": "32 GB",
+                "Libres": "0",
+                "Velocidad": "4,27 MHz",
+                "Tecnologia": "LPDDR5"
+            },
+            "DiscoDuro": {
+                "Tamaño": "1.000 GB",
+                "Tipo": "SSD",
+                "Interfaz": "SSD",
+                "NumeroSoportes": "1",
+                "DetallesAdicionales": {}
+            },
+            "TarjetaGrafica": {
+                "Integrada": true,
+                "Fabricante": "Intel",
+                "Modelo": "Geforce RTX 2050",
+                "Memoria": "0 MB",
+                "DetallesAdicionales": {}
+            },
+            "Dimensiones": {
+                "Peso": "1,98 kg",
+                "Altura": "2,2 cm",
+                "Ancho": "32,3 cm",
+                "Profundidad": "23 cm"
+            },
+            "Codigo": "Z1T-00012",
+            "Precio": "3.785,26 €",
+            "Pantalla": {
+                "Tamaño": "14,4 \"",
+                "Tactil": true,
+                "Tipo": "IPS",
+                "Resolucion": "2496 x 1664",
+                "DetallesAdicionales": {
+                    "Brillo": "650 cd/m2",
+                    "Contraste": "1.500:1"
+                }
+            },
+            "General": {
+                "Color": "Gris",
+                "TPM": true,
+                "DetallesAdicionales": {}
+            },
+            "Conexiones": {
+                "Movil": false,
+                "Ethernet": false,
+                "PuertosUSB": {
+                    "VGA": false,
+                    "Bluetooth": true,
+                    "Thunderbolt": true,
+                    "HDMI": false
+                },
+                "Otros": {}
+            },
+            "Audio": {
+                "Micrófono": true,
+                "DetallesAdicionales": {}
+            },
+            "Bateria": {
+                "NumeroCeldas": "4",
+                "Duracion": "hasta 19 h"
+            },
+            "Webcam": {
+                "Integrada": true,
+                "Resolucion": "1920 x 1080"
+            },
+            "Teclado": {
+                "NumeroTeclas": "",
+                "Retroiluminado": false
+            },
+            "Alimentador": {
+                "Potencia": ""
+            }
         }
-    },
-    "Conectividad": {
-        "Conexiones": {
-            "RedMóvil": false,
-            "Ethernet": false,
-            "VGA": false,
-            "Bluetooth": true,
-            "Thunderbolt": true,
-            "HDMI": false
-        }
-    },
-    "General": {
-        "Color": "Gris",
-        "TPM": true
-    },
-    "Audio": {
-        "MicrófonoIntegrado": true
-    },
-    "Batería": {
-        "NúmeroCeldas": 4,
-        "Duración": "hasta 19 h"
-    },
-    "Webcam": {
-        "Integrada": true,
-        "Resolución": "1920 x 1080"
-    },
-    "Teclado": {},
-    "Alimentador": {}
+    ]
 }
