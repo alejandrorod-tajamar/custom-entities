@@ -1,0 +1,119 @@
+{
+    "Producto": {
+        "Marca": "DELLTechnologies",
+        "Nombre": "Dell Inspiron 3030 Desktop",
+        "Codigo": "1D23K",
+        "Precio": "674,33 €",
+        "General": {
+            "FactorForma": "Tower",
+            "ColorPrimario": "Azul",
+            "Teclado": "Standard USB",
+            "Ratón": "Óptico USB",
+            "Altavoces": "No",
+            "Refrigeración": "líquida No",
+            "Wireless": {
+                "WiFi": "Wi-Fi 5 (802.11ac)",
+                "Bluetooth": "Si"
+            },
+            "OrdenCodigo": "Sin unidad óptica"
+        },
+        "Sistema": {
+            "SistemaOperativo": "Sistema operativo Windows 11 Versión sistema operativo Professional Imagen Precargada de Office (activable con PKC) trial Duracion antivirus incluido 12 months"
+        },
+        "Hardware": {
+            "Procesador": {
+                "Familia": "Intel Core i5",
+                "Modelo": "i5-12400",
+                "VelocidadClock": "2,5 GHZ",
+                "Fabricante": "Intel",
+                "CacheTotal": "18 MB"
+            },
+            "RAM": {
+                "Instalada": "8 GB",
+                "Tecnología": "DDR5",
+                "Máxima": "64 GB",
+                "BancosLibres": 1,
+                "Frecuencia": "4.800 MHZ",
+                "BancosTotales": 2,
+                "Tipología": "DIMM Dual Channel No"
+            },
+            "DiscoDuro": {
+                "Tamaño": "512 GB",
+                "Tipo": "SSD",
+                "Interfaz": "M.2 PCIe NVMe",
+                "NúmeroSoportes": 1,
+                "TipologíaControlador": "M.2"
+            },
+            "TarjetaGrafica": {
+                "Modelo": "UHD Graphics",
+                "MemoriaDedicada": "0 MB",
+                "Integrada": "Si",
+                "Fabricante": "Intel",
+                "ResoluciónMaxima": {
+                    "Ancho": "4.096 Px",
+                    "Altura": "2.160 Px"
+                }
+            },
+            "Dimensiones": {
+                "Altura": "324,3 mm",
+                "Ancho": "154 mm",
+                "Profundidad": "292,8 mm",
+                "Peso": "7,05 Kg"
+            },
+            "Alimentador": {
+                "Potencia": "300 W"
+            }
+        },
+        "Conexiones": {
+            "TotalConectores": 10,
+            "TotalPuertosUSB": 8,
+            "PuertosUSB": {
+                "Posteriores": 4,
+                "Frontales": 4,
+                "USB2.0": {
+                    "Tipo": "High Speed Type-A",
+                    "Cantidad": 4
+                },
+                "USB3.2": {
+                    "Gen1": {
+                        "Tipo": "SuperSpeed (5 Gbps) Type-A",
+                        "Cantidad": 3
+                    },
+                    "Gen2": {
+                        "Tipo": "SuperSpeed+ (10 Gbps) Type-A",
+                        "Cantidad": 0
+                    }
+                }
+            },
+            "PCI": {
+                "Total": 0,
+                "PCIExpress1x": 0,
+                "PCIExpress16x": 0
+            },
+            "PuertosAudio": {
+                "Frontales": 1,
+                "Posteriores": 1
+            },
+            "OtrosPuertos": {
+                "HDMI": 1,
+                "MiniHDMI": 0,
+                "VGA": 0,
+                "DisplayPort": 1,
+                "DVI": {
+                    "D": 0,
+                    "I": 0
+                },
+                "SATA3.0": 0,
+                "SocketM2": {
+                    "TotalParaSSD": 0,
+                    "Otros": 0
+                }
+            }
+        },
+        "Audio": "",
+        "Bateria": "",
+        "Webcam": "",
+        "Pantalla": "",
+        "Teclado": ""
+    }
+}

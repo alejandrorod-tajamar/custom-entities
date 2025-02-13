@@ -1,0 +1,55 @@
+{
+    "Producto": {
+        "Marca": "Apple",
+        "Modelo": "MX2G3Y/A",
+        "Codigo": "MX2G3Y/A",
+        "Precio": "3.849,00 €"
+    },
+    "Especificaciones": {
+        "SistemaOperativo": "Version S.O. macOS Ventura",
+        "Procesador": {
+            "Familia": "Apple M",
+            "Modelo": "M4 Max",
+            "Fabricante": "Apple"
+        },
+        "RAM": {
+            "Instalada": "36 GB",
+            "Maxima": "36 GB",
+            "Tecnologia": "n.d."
+        },
+        "DiscoDuro": {
+            "Capacidad": "1.064 GB",
+            "Tipo": "SSD",
+            "Interfaz": "Non presente",
+            "NumeroSoportes": 0
+        },
+        "TarjetaGrafica": {
+            "Tipo": "Gráfica integrada",
+            "Fabricante": "Apple"
+        },
+        "Pantalla": {
+            "Tamaño": "14,2\"",
+            "Táctil": "No",
+            "Tipo": "QLED",
+            "Resolución": "3024 x 1964",
+            "Superficie": "Mate"
+        },
+        "Conexiones": {
+            "ConexiónRedMovil": "No"
+        },
+        "Audio": {
+            "MicrófonoIntegrado": "Si"
+        },
+        "Webcam": {
+            "Integrada": "Si"
+        },
+        "General": {
+            "Color": "Plata",
+            "TPM": "No"
+        },
+        "DimensionesPeso": "",
+        "Bateria": "",
+        "Teclado": "",
+        "Alimentador": ""
+    }
+}

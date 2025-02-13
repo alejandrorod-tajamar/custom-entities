@@ -1,0 +1,72 @@
+{
+    "Producto": {
+        "Marca": "DELLTechnologies",
+        "Nombre": "Dell Inspiron 15",
+        "Codigo": "XJ58G",
+        "Precio": "554,33 €",
+        "Especificaciones": {
+            "SistemaOperativo": "Version S.O. Windows 11 Home",
+            "Procesador": {
+                "Familia": "AMD Ryzen 7",
+                "Modelo": "Ryzen 7 7730U",
+                "Fabricante": "AMD"
+            },
+            "RAM": {
+                "Instalada": "16 GB",
+                "Maxima": "16 GB",
+                "Tecnologia": "DDR4"
+            },
+            "DiscoDuro": {
+                "Capacidad": "512 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express",
+                "NumeroSoportes": 1
+            },
+            "TarjetaGrafica": {
+                "GráficaIntegrada": true,
+                "Fabricante": "AMD",
+                "Modelo": "AMD Radeon Graphics"
+            },
+            "Pantalla": {
+                "Tamaño": "15,6\"",
+                "PantallaTactil": false,
+                "Tipo": "IPS",
+                "Resolución": "1920 x 1080"
+            },
+            "DimensionesPeso": {
+                "Largo": "45,44 cm",
+                "Ancho": "7 cm",
+                "Profundidad": "35,5 cm",
+                "PesoConEmbalaje": "2,87 kg"
+            },
+            "Bateria": {
+                "NúmeroCeldas": 3,
+                "Capacidad": 41
+            },
+            "Audio": {
+                "MicrófonoIntegrado": true
+            },
+            "Webcam": {
+                "Integrada": true
+            },
+            "Teclado": null,
+            "Alimentador": null
+        },
+        "General": {
+            "Color": "Negro",
+            "TrustedPlatformModule": true,
+            "DetecciónHuellaDactilar": true
+        },
+        "Conexiones": {
+            "ConexiónRedMóvil": false,
+            "PuertosUSB": {
+                "Total": 3,
+                "USB2.0": 1,
+                "USB3.2Gen1": 1,
+                "USB3.2Gen2": 1
+            },
+            "Ethernet": false,
+            "PuertoHDMI": true
+        }
+    }
+}

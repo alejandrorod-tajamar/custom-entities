@@ -1,0 +1,71 @@
+{
+    "Producto": {
+        "Marca": "DELLTechnologies",
+        "Nombre": "Dell Latitude 9450 2-in-1 U7 165U",
+        "Código": "GN4X0",
+        "Precio": "2.542,61 €"
+    },
+    "Especificaciones": {
+        "SistemaOperativo": "Version S.O. Windows 11 Pro",
+        "Procesador": {
+            "Familia": "Intel Core Ultra 7",
+            "Modelo": "164U",
+            "Fabricante": "Intel",
+            "Frecuencia": "4,4 GHZ"
+        },
+        "RAM": {
+            "Instalada": "32 GB",
+            "Máxima": "32 GB",
+            "BancosLibres": 0,
+            "Velocidad": "7.467 MHZ",
+            "Tecnología": "DDR5"
+        },
+        "DiscoDuro": {
+            "Capacidad": "1.024 GB",
+            "Tipo": "SSD",
+            "Interfaz": "PCI Express 4.0",
+            "NúmeroSoportes": 1
+        },
+        "TarjetaGrafica": {
+            "GráficaIntegrada": "No",
+            "Fabricante": "Intel",
+            "Modelo": "UHD Graphics",
+            "Memoria": "0 mb"
+        },
+        "Dimensiones": {
+            "Peso": "1,54 kg",
+            "Altura": "1,28 cm",
+            "Ancho": "31,1 cm",
+            "Profundidad": "2,15 cm"
+        },
+        "Pantalla": {
+            "Tamaño": "14\"",
+            "Táctil": "Si",
+            "Tipo": "TFT",
+            "Resolución": "2560 x 1600"
+        },
+        "General": {
+            "Color": "Gris",
+            "TPM": "No"
+        },
+        "Conexiones": {
+            "RedMóvil": "Si",
+            "Ethernet": "10/100/1000",
+            "VGA": "No",
+            "Bluetooth": "Si",
+            "Thunderbolt": "Si",
+            "HDMI": "No"
+        },
+        "Audio": {
+            "MicrófonoIntegrado": "Si"
+        },
+        "Batería": {
+            "NúmeroCeldas": 3
+        },
+        "Webcam": {
+            "Integrada": "Si"
+        },
+        "Teclado": "",
+        "Alimentador": ""
+    }
+}

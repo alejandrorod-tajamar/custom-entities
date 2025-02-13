@@ -1,0 +1,110 @@
+{
+    "Producto": {
+        "Marca": "Microsoft Surface",
+        "Nombre": "Microsoft Surface Pro 10",
+        "Codigo": "Y6B-00005",
+        "Precio": "2.311,45 €"
+    },
+    "Especificaciones": {
+        "SistemaOperativo": {
+            "Version": "Windows 11 Pro",
+            "SoftwareIncluido": [
+                "Microsoft 365 Business Standard",
+                "Microsoft 365 Business Premium",
+                "Microsoft 365 Apps 30-day trial"
+            ]
+        },
+        "Procesador": {
+            "Familia": "Intel Core Ultra 7",
+            "Modelo": "i7-165U",
+            "Fabricante": "Intel",
+            "Frecuencia": {
+                "Base": "1,7 GHZ",
+                "Turbo": "4,9 GHZ"
+            },
+            "Intel_V_pro": "No"
+        },
+        "RAM": {
+            "Instalada": "32 GB",
+            "Maxima": "32 GB",
+            "BancosLibres": 0,
+            "Velocidad": "8.533 MHZ",
+            "Tecnologia": "LPDDR5X"
+        },
+        "DiscoDuro": {
+            "Capacidad": "512 GB",
+            "Tipo": "Hybrid-HDD",
+            "Soporte": {
+                "Tipo": "SSD",
+                "Numero": 1
+            }
+        },
+        "TarjetaGrafica": {
+            "Integrada": "Si",
+            "Fabricante": "Intel",
+            "Modelo": "Intel Graphics",
+            "Memoria": "0 mb"
+        },
+        "DimensionesYPeso": {
+            "PesoSinEmbalaje": "0,88 kg",
+            "Altura": "28,7 cm",
+            "Ancho": "20,8 cm",
+            "Profundidad": "0,93 cm"
+        },
+        "Pantalla": {
+            "Tamaño": "13\"",
+            "Tactil": "Si",
+            "Tipo": "LCD",
+            "Resolucion": "2880 x 1920",
+            "Brillo": "600 cd/m2",
+            "Contraste": "1.300:1"
+        },
+        "General": {
+            "Color": "Gris",
+            "TPM": "Si",
+            "MaterialChasis": "Aluminio",
+            "DeteccionHuella": "No",
+            "Detachable": "Si",
+            "Convertibili": "2 in 1"
+        },
+        "Conexiones": {
+            "RedMovil": "No",
+            "PuertosUSB": {
+                "Total": 2,
+                "Type_C": {
+                    "Cantidad": 2,
+                    "Version": "4 (40 Gbps)"
+                }
+            },
+            "Ethernet": "No",
+            "Bluetooth": {
+                "Presente": "Si",
+                "Version": "5,3"
+            },
+            "PuertoThunderbolt": "Si",
+            "PuertoHDMI": "No",
+            "ConexionesAdicionales": [
+                "2 x USB-C with USB 4.0/ Thunderbolt 4",
+                "1 x Surface Connect port",
+                "1 x Surface Type Cover port",
+                "M.2 rSSD"
+            ]
+        },
+        "Audio": {
+            "MicrofonoIntegrado": "Si"
+        },
+        "Bateria": {
+            "NumeroCeldas": 4,
+            "Duracion": "hasta 19 h"
+        },
+        "Webcam": {
+            "Integrada": "Si",
+            "Resolucion": "1920 x 1080",
+            "Infrarrojos": "Si"
+        },
+        "Teclado": {
+            "Retroiluminado": "No"
+        },
+        "Alimentador": ""
+    }
+}

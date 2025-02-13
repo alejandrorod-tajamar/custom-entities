@@ -1,0 +1,97 @@
+{
+    "Producto": {
+        "Marca": "hp",
+        "Nombre": "HP Pro Torre 290 G9",
+        "Codigo": "623N5ET",
+        "Precio": "693,82 €",
+        "General": {
+            "DimensionesPeso": {
+                "Altura": "33,7 mm",
+                "Ancho": "15,5 mm",
+                "PesoSinEmbalaje": "4,7 Kg",
+                "Profundidad": "30,3 mm"
+            },
+            "FactorDeForma": "Tower",
+            "Wireless": "No presente",
+            "Bluetooth": "No",
+            "ColorPrimario": "Negro",
+            "Ratón": "Óptico USB",
+            "Refrigeración": "líquida No",
+            "Teclado": "Standard Usb",
+            "Altavoces": "No"
+        },
+        "Sistema": {
+            "SistemaOperativo": "Windows 11 Professional",
+            "DuracionAntivirus": "0 months",
+            "ImagenPrecargada": "Office (activable con PKC)"
+        },
+        "Procesador": {
+            "Familia": "Intel Core i5",
+            "Modelo": "i5-13500",
+            "VelocidadClock": "2,5 GHz",
+            "Fabricante": "Intel"
+        },
+        "RAM": {
+            "Instalada": "8 GB",
+            "Tecnología": "DDR4",
+            "Máxima": "64 GB",
+            "BancosLibres": 1,
+            "Frecuencia": "3.200 MHz",
+            "TotalBancos": 2,
+            "Tipología": "DIMM"
+        },
+        "DiscoDuro": {
+            "Tamaño": "256 GB",
+            "Tipo": "SSD",
+            "Interfaz": "M.2 NVMe PCIe",
+            "NúmeroSoportes": 2
+        },
+        "TarjetaGrafica": {
+            "Modelo": "UHD Graphics 770",
+            "MemoriaDedicada": "0 MB",
+            "Integrada": "Si",
+            "Fabricante": "Intel",
+            "ResoluciónMáxima": {
+                "Ancho": "0 Px",
+                "Altura": "0 Px"
+            }
+        },
+        "Conexiones": {
+            "PuertosUSB": {
+                "NºPosteriores": 0,
+                "NºFrontales": 0,
+                "USB3_2Gen2": {
+                    "SuperSpeed": "10 Gbps",
+                    "TypeA": 0
+                }
+            },
+            "PCI": {
+                "PCIe_x1": 0,
+                "PCIe_x16": 0
+            },
+            "PuertosSerie": 0,
+            "Audio": {
+                "Frontales": 0,
+                "Posteriores": 0
+            },
+            "Ps2": 0,
+            "OtrosConectores": {
+                "RanurasDeExpansión": [
+                    "2 M.2",
+                    "1 PCIe 3 x1",
+                    "1 PCIe 4 x16 (1 ranura M.2 para WLAN y 1 ranura M.2 2242/2280 para almacenamiento)"
+                ]
+            }
+        },
+        "Alimentador": {
+            "Potencia": "180 W"
+        },
+        "Accesorios": {
+            "Pantalla": "",
+            "Audio": "",
+            "Bateria": "",
+            "Webcam": "",
+            "Teclado": ""
+        }
+    }
+}

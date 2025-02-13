@@ -1,0 +1,88 @@
+{
+    "Producto": {
+        "Marca": "LG",
+        "Nombre": "LG gram 17Z90R",
+        "Codigo": "17Z90R-E.AD78B",
+        "Precio": "2.205,78 €"
+    },
+    "Sistema": {
+        "SistemaOperativo": "Version S.O. Windows 11 Home",
+        "Procesador": {
+            "Familia": "Intel Core i7",
+            "Modelo": "i7-1360P",
+            "Fabricante": "Intel",
+            "Frecuencia": "2,2 GHz"
+        },
+        "RAM": {
+            "Instalada": "32 GB",
+            "Maxima": "32 GB",
+            "BancosLibres": 0,
+            "Velocidad": "6.000 MHz",
+            "Tecnologia": "LPDDR5"
+        },
+        "DiscoDuro": {
+            "Capacidad": "1.000 GB",
+            "Tipo": "SSD",
+            "Interfaz": "PCI Express 4.0",
+            "NumeroSoportes": 1
+        }
+    },
+    "Gráfica": {
+        "Integrada": "Si",
+        "Fabricante": "Intel",
+        "Modelo": "RTX™ 3050 Ti",
+        "Memoria": "18 MB"
+    },
+    "Dimensiones": {
+        "Peso": "1,45 kg",
+        "Altura": "25,88 cm",
+        "Ancho": "37,88 cm",
+        "Profundidad": "1,78 cm"
+    },
+    "Pantalla": {
+        "Tamaño": "17\"",
+        "Táctil": "No",
+        "Tipo": "IPS",
+        "Resolución": "2560 x 1600",
+        "Superficie": "Mate"
+    },
+    "Conexiones": {
+        "RedMovil": "No",
+        "PuertosUSB": {
+            "Total": 4,
+            "USB3.2Gen1": {
+                "Cantidad": 2,
+                "Tipo": "Type-A",
+                "Velocidad": "5 Gbps"
+            },
+            "USB3.2Gen2x2": {
+                "Cantidad": 2,
+                "Tipo": "Type-C",
+                "Velocidad": "20 Gbps"
+            }
+        },
+        "Ethernet": "No presente",
+        "PorteVGA": "No",
+        "Bluetooth": "Si",
+        "Puertos": {
+            "Thunderbolt": "Si",
+            "HDMI": "Si"
+        }
+    },
+    "Audio": {
+        "MicrófonoIntegrado": "Si"
+    },
+    "Batería": {
+        "NúmeroCeldas": 4,
+        "Duración": "hasta 20 h"
+    },
+    "Webcam": {
+        "Integrada": "Si",
+        "Resolución": "1920 x 1080"
+    },
+    "Teclado": {
+        "NumeroDeTeclas": 101,
+        "TecladoNumérico": "Si"
+    },
+    "Alimentador": ""
+}

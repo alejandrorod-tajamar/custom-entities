@@ -1,0 +1,113 @@
+{
+    "Producto": {
+        "Marca": "SAMSUNG",
+        "Nombre": "GALAXY BOOK4 ULTRA",
+        "Codigo": "NP960XGL-XG1ES",
+        "Precio": "2.425,46 €",
+        "DimensionesPeso": {
+            "Peso": "1,86 kg",
+            "Altura": "25,04 cm",
+            "Ancho": "35,54 cm",
+            "Profundidad": "4,3 cm"
+        },
+        "General": {
+            "TipoProducto": "Ultrabook",
+            "Color": "Moonstone Grey",
+            "TPM": "Si",
+            "MaterialChasis": "Aluminio + Magnesio",
+            "DetecciónHuella": "Si",
+            "Detachable": "No",
+            "Convertible": "No",
+            "CarcasaCableSeguridad": "No"
+        },
+        "SistemaOperativo": {
+            "Version": "Windows 11 Home",
+            "SoftwareIncluido": "Galaxy Productivity",
+            "GalaxyBookExperience": "experiencia fácil multidispositivo"
+        },
+        "Hardware": {
+            "Procesador": {
+                "Familia": "Intel Core Ultra 7",
+                "Modelo": "155H",
+                "Fabricante": "Intel",
+                "Frecuencia": "1,4 GHz",
+                "FrecuenciaTurbo": "5,1 GHz"
+            },
+            "RAM": {
+                "Instalada": "16GB",
+                "Máxima": "16GB",
+                "BancosLibres": 0,
+                "Velocidad": "7.467 MHz",
+                "Tecnología": "LPDDR5X",
+                "Tipo": "SO-DIMM"
+            },
+            "DiscoDuro": {
+                "Capacidad": "1.000 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express 4.0",
+                "NúmeroSoportes": 1
+            },
+            "TarjetaGrafica": {
+                "GráficaIntegrada": "No",
+                "Fabricante": "Nvidia",
+                "Modelo": "GeForce RTX 4050"
+            }
+        },
+        "Pantalla": {
+            "Tamaño": "16\"",
+            "Táctil": "Si",
+            "Tipo": "AMOLED",
+            "Resolución": "2880 x 1800",
+            "Superficie": "Mate"
+        },
+        "Conexiones": {
+            "RedMovil": "No",
+            "PuertosUSB": {
+                "Total": 3,
+                "USB3_2Gen1": {
+                    "Tipo": "Type-A",
+                    "Cantidad": 1
+                },
+                "USB3_2Gen2x2": {
+                    "Tipo": "Type-C",
+                    "Cantidad": 2
+                }
+            },
+            "Ethernet": "No presente",
+            "PuertoVGA": "No",
+            "Bluetooth": {
+                "Si": "Si",
+                "Versión": "5,3"
+            },
+            "PuertoThunderbolt": "No",
+            "PuertoHDMI": {
+                "Si": "Si",
+                "Versión": "2.1 (Supports 8K@60Hz, 5K@120Hz)"
+            },
+            "ConexionesAdicionales": {
+                "USB-C": "Thunderbolt 4",
+                "HeadphoneOutMicInCombo": "Si",
+                "TipoPuertoCarga": "USB Type-C"
+            },
+            "Wireles": {
+                "Estándar": "Wifi 6E (802.11ax)"
+            }
+        },
+        "Audio": {
+            "MicrófonoIntegrado": "Si"
+        },
+        "Bateria": {
+            "Celdas": 1,
+            "Duración": "hasta 21 h"
+        },
+        "Webcam": {
+            "Integrada": "Si",
+            "Resolución": "1920 x 1080"
+        },
+        "Teclado": {
+            "Numérico": "Si",
+            "Retroiluminado": "Si"
+        },
+        "Alimentador": ""
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "Producto": {
+        "Marca": "ASUS",
+        "Codigo": "PB63-B3011AH",
+        "Precio": "787,46 €",
+        "Nombre": "PB63-B3011AH",
+        "General": {
+            "FactorDeForma": "Mini PC",
+            "ColorPrimario": "Negro",
+            "Red": {
+                "Wi-Fi": "Wi-Fi 6 (802.11ax)",
+                "Bluetooth": {
+                    "Presente": "Si",
+                    "Version": "5.2"
+                }
+            },
+            "Accesorios": {
+                "Ratón": "No presente",
+                "Teclado": "No presente",
+                "Altavoces": "No",
+                "RefrigeracionLiquida": "No"
+            }
+        },
+        "Sistema": {
+            "SistemaOperativo": {
+                "Nombre": "Windows 11",
+                "Version": "Professional",
+                "ImagenPrecargadaOffice": "atcivabile con PKC",
+                "DuracionAntivirus": "0 months"
+            }
+        },
+        "Hardware": {
+            "Procesador": {
+                "Familia": "Intel Core i3",
+                "Modelo": "i3-13100",
+                "VelocidadClock": "4,5 GHZ",
+                "Fabricante": "Intel"
+            },
+            "RAM": {
+                "Instalada": "8 GB",
+                "Tecnologia": "DDR5",
+                "Maxima": "32 GB",
+                "Bancos": {
+                    "Libres": 2,
+                    "Totales": 2
+                },
+                "Frecuencia": "0 MHZ",
+                "Tipologia": "SO-DIMM"
+            },
+            "DiscoDuro": {
+                "Tamaño": "256 GB",
+                "Tipo": "SSD",
+                "Interfaz": "SSD",
+                "NumeroSoportes": 1,
+                "Dimensiones": {
+                    "Soporte1": "256 GB"
+                }
+            },
+            "TarjetaGrafica": {
+                "Modelo": "Gráficos Intel UHD 730",
+                "MemoriaDedicada": "0 MB",
+                "Integrada": "Si",
+                "Fabricante": "Intel",
+                "ResolucionMaxima": {
+                    "Ancho": "0 Px",
+                    "Altura": "0 Px"
+                }
+            },
+            "DimensionesYPeso": {
+                "Altura": "175 mm",
+                "Ancho": "44,5 mm",
+                "Profundidad": "175 mm",
+                "PesoSinEmbalaje": "2,61 Kg"
+            }
+        },
+        "Conexiones": {
+            "PuertosUSB": {
+                "Posteriores": 3,
+                "Frontal": 5,
+                "USB2.0": {
+                    "Type-A": 3
+                },
+                "USB3.2": {
+                    "Gen1": {
+                        "SuperSpeed": {
+                            "Type-A": 2
+                        }
+                    },
+                    "Gen2": {
+                        "SuperSpeed+": {
+                            "Type-A": 2,
+                            "Type-C": "Si"
+                        }
+                    }
+                }
+            },
+            "PCI": {
+                "x1": 0,
+                "x16": 0
+            },
+            "PuertosSerie": 1,
+            "Audio": {
+                "Frontales": 1,
+                "Posteriores": 0
+            },
+            "OtrosConectores": {
+                "Antena": "2x2"
+            },
+            "NumeroPuertos": {
+                "HDMI": 1,
+                "DisplayPort": 2
+            }
+        },
+        "Audio": {},
+        "Bateria": {},
+        "Webcam": {},
+        "Teclado": {},
+        "Alimentador": {
+            "Potencia": "60 W"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "Producto": {
+        "Marca": "SAMSUNG",
+        "Nombre": "GALAXY BOOK4 ULTRA",
+        "Codigo": "NP960XGL-XG2ES",
+        "Precio": "3.247,24 €",
+        "Tipo": "Ultrabook",
+        "Color": "Moonstone Grey",
+        "Material": "Aluminio + Magnesio",
+        "General": {
+            "SistemaOperativo": "Version S.O. Windows 11 Home Software incluido Galaxy Productivity: Control y Colaboración Galaxy Book Experience experiencia fácil multidispositivo",
+            "DetecciónHuellaDactilar": "Si",
+            "2en1": {
+                "Detachable": "No",
+                "Convertibilidad": "No"
+            },
+            "CarcasaParaCableDeSeguridad": "No"
+        },
+        "DimensionesPeso": {
+            "PesoSinEmbalaje": "1,86 kg",
+            "Altura": "25,05 cm",
+            "Ancho": "35,54 cm",
+            "Profundidad": "1,65 cm"
+        },
+        "Rendimiento": {
+            "Procesador": {
+                "Familia": "intel Core Ultra 9",
+                "Modelo": "185H",
+                "Fabricante": "Intel",
+                "Frecuencia": {
+                    "Normal": "1,4 GHz",
+                    "Turbo": "5,1 GHz"
+                }
+            },
+            "RAM": {
+                "Instalada": "32GB",
+                "Maxima": "32GB",
+                "BancosLibres": 0,
+                "Velocidad": "7.467 MHz",
+                "Tecnologia": "LPDDR5X",
+                "Tipo": "SO-DIMM"
+            },
+            "DiscoDuro": {
+                "Capacidad": "1.000 GB",
+                "Tipo": "SSD",
+                "Interfaz": "PCI Express 4.0",
+                "NumeroDeSoportes": 1
+            },
+            "TarjetaGrafica": {
+                "Integrada": "No",
+                "Fabricante": "Nvidia",
+                "Modelo": "GeForce RTX 4070",
+                "Memoria": "12.228 mb"
+            }
+        },
+        "Pantalla": {
+            "Tamaño": "16\"",
+            "Tactil": "Si",
+            "Tipo": "AMOLED",
+            "Resolución": "2880 x 1800",
+            "Superficie": "Mate"
+        },
+        "Conexiones": {
+            "ConexiónRedMóvil": "No",
+            "NºTotalPuertosUSB": 3,
+            "PuertosUSB": {
+                "USB32Gen1": {
+                    "Cantidad": 1,
+                    "Tipo": "Type-A (5 Gbps)"
+                },
+                "USB32Gen2x2": {
+                    "Cantidad": 2,
+                    "Tipo": "Type-C (20 Gbps)"
+                }
+            },
+            "Ethernet": "No present",
+            "PuertosVGA": "No",
+            "Bluetooth": {
+                "Soporte": "Si",
+                "Versión": "5.3"
+            },
+            "Thunderbolt": "No",
+            "PuertoHDMI": {
+                "Presente": "Si",
+                "MicroHDMI": "No"
+            },
+            "DisplayPort": "No",
+            "MiniDisplayPort": "No",
+            "ConexiónDockstation": "No",
+            "Wireless": {
+                "Standard": "Wifi 6E (802.11ax)"
+            },
+            "OtrasConexiones": {
+                "HDMI": "2.1 (Supports 8K@60Hz, 5K@120Hz)",
+                "USB-C": "Thunderbolt 4",
+                "HeadphoneOutMicInCombo": "Si",
+                "TipoPuertoCarga": "USB Type-C"
+            }
+        },
+        "Audio": {
+            "MicrófonoIntegrado": "Si"
+        },
+        "Bateria": {
+            "NúmeroDeCeldas": 1,
+            "DuraciónHasta": "21 h"
+        },
+        "Webcam": {
+            "Integrada": "Si",
+            "Resolución": "1920 x 1080"
+        },
+        "Teclado": {
+            "Numérico": "Si",
+            "Retroiluminado": "Si"
+        },
+        "Alimentador": ""
+    }
+}

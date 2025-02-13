@@ -1,0 +1,105 @@
+{
+    "Producto": {
+        "Marca": "DELLTechnologies",
+        "Nombre": "Dell XPS 13 9350U7",
+        "Codigo": "FMDDY",
+        "Precio": "2.303,03 €"
+    },
+    "Especificaciones": {
+        "SistemaOperativo": {
+            "Version": "Windows 11 Pro",
+            "Bit": "64",
+            "SoftwareIncluido": "Intel® ME Disabled"
+        },
+        "Procesador": {
+            "Familia": "Intel Core Ultra 7",
+            "Modelo": "258V",
+            "Fabricante": "Intel",
+            "Núcleos": 8,
+            "Frecuencia": "4,8 GHZ"
+        },
+        "RAM": {
+            "Instalada": "32 GB",
+            "Máxima": "32 GB",
+            "Tecnología": "LPDDR5X",
+            "Tipo": "On-board"
+        },
+        "DiscoDuro": {
+            "Tipo": "SSD",
+            "Capacidad": "1.000 GB",
+            "Interfaz": "NVMe"
+        },
+        "TarjetaGrafica": {
+            "Integrada": true,
+            "Fabricante": "Intel",
+            "Modelo": "Intel Arc Graphics"
+        },
+        "Pantalla": {
+            "Tamaño": "13,4 pulgadas",
+            "Táctil": true,
+            "Tipo": "OLED",
+            "Resolución": "2880 × 1800",
+            "Luminosidad": 400,
+            "Contraste": "1.000.000",
+            "HD": "3K",
+            "Retroiluminación": true,
+            "RelaciónDeAspecto": "16:10",
+            "TiempoDeRefrescoMaximo": 60,
+            "EspacioDeColor": "RGB DCI-P3"
+        },
+        "DimensionesYPeso": {
+            "LadoA": "39,6 cm",
+            "LadoB": "32,16 cm",
+            "LadoC": "10,6 cm",
+            "PesoConEmbalaje": "2,73 kg"
+        },
+        "Bateria": {
+            "NúmeroDeCeldas": 3,
+            "Capacidad": 55
+        },
+        "Webcam": {
+            "Integrada": true,
+            "Resolución": "1920 x 1080",
+            "Infrarrojos": true,
+            "CámaraFrontal": "HD Full HD"
+        },
+        "Teclado": {
+            "Numérico": false,
+            "Retroiluminado": true
+        },
+        "Audio": {
+            "MicrófonoIntegrado": true
+        }
+    },
+    "Conexiones": {
+        "RedMovil": false,
+        "PuertosUSB": {
+            "Total": 0,
+            "USB2_0": 0,
+            "USB3_2": 0
+        },
+        "Ethernet": false,
+        "VGA": false,
+        "Bluetooth": true,
+        "Thunderbolt": true,
+        "HDMI": true,
+        "Cargas": {
+            "Tipo": "USB Type-C"
+        },
+        "Wireless": {
+            "Standard": "Wifi 7 (802.11be)"
+        },
+        "Dockstation": {
+            "ConexiónDelFabricante": false
+        }
+    },
+    "General": {
+        "Color": "Plata",
+        "TPM": true,
+        "MaterialChasis": "Aluminio",
+        "DetecciónHuellaDactilar": true,
+        "PotenciaAdaptadorAC": 60,
+        "Convertible": false,
+        "Detachable": false
+    }
+}
