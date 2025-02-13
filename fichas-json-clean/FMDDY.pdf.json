@@ -1,0 +1,19 @@
+{
+    "Marca": "DELLTechnologies",
+    "Nombre": "Dell XPS 13 9350U7",
+    "SistemaOperativo": "Version S.O. Windows 11 Pro Bit S.O. 64 Software Incluido Intel® ME Disabled",
+    "Procesador": "Familia Procesador Intel Core Ultra 7 Modelo de procesador 258V Fabricante procesador Intel Número de núcleos de procesador 8 Frecuencia del procesador 4,8 GHZ",
+    "RAM": "RAM Instalada 32 RAM Máxima 32 Tecnología de la RAM LPDDR5X Tipo de RAM On-board",
+    "DiscoDuro": "Disco duro 1.000 Tipo Soporte 1 SSD Interfaz Soporte 1 NVMe Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada Si Fabricante de la gráfica Intel Modelo gráfica Intel Arc Graphics",
+    "DimensionesPeso": "Lato A 39,6 cm Lato B 32,16 cm Lato C 10,6 cm Peso con embalaje 2,73 kg",
+    "Codigo": "FMDDY",
+    "Precio": "2.303,03 €",
+    "Pantalla": "Tamaño pantalla 13,4 Pantalla táctil Si Tipo de pantalla OLED Resolución (Estándar) 2880 × 1800 Luminosidad 400 Contraste 1.000.000 Tipologia HD 3K Retroiluminación Yes Relación de aspecto nativa 16:10 Tiempo máximo de refresco 60 Espacio de color RGB DCI-P3",
+    "General": "Color Plata Trusted Platform Module (TPM) Si Material Chasis Aluminio Detección huella dactilar Si Potencia adaptador AC 60 2 en 1 Detachable No Convertibili 2 in 1 No Potencia de adaptador AC 60",
+    "Conexiones": "Conexión a red móvil No Nº total de puertos USB 0 Puertos USB 2.0 High Speed Type-A 0 Puertos USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 0 Ethernet No presente Porte VGA No Bluetooth Si Puerto Thunderbolt Si Puerto HDMI Si HDMI micro No Display Port No Mini Display Port No Conexión para Dockstation del fabricante No Wireless (standard) Wifi 7 (802.11be) Tipo de puerto de carga USB Type-C",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 3 Capacidad de batería 55",
+    "Webcam": "Webcam integrada Si Resolución Webcam 1920 x 1080 Infrarrojos Si Cámara frontal tipo HD Full HD",
+    "Teclado": "Teclado numérico No Teclado retroiluminado Si"
+}

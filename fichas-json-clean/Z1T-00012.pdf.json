@@ -1,0 +1,19 @@
+{
+    "Marca": "Microsoft Surface",
+    "Nombre": "Microsoft Surface Laptop Studio 2",
+    "SistemaOperativo": "Version S.O. Windows 11 Pro",
+    "Procesador": "Familia Procesador Intel Core i7 Modelo de procesador i7-13800H Fabricante procesador Intel Frecuencia del procesador 5,2 GHZ",
+    "RAM": "RAM Instalada 32 GB RAM Máxima 32 GB Bancos RAM Libres 0 Velocidad de la memoria de reloj 4,27 MHz Tecnología de la RAM LPDDR5",
+    "DiscoDuro": "Disco duro 1.000 GB Tipo Soporte 1 SSD Interfaz Soporte 1 SSD Número Soportes 1",
+    "TarjetaGrafica": "Gráfica integrada Si Fabricante de la gráfica Intel Modelo gráfica Geforce RTX 2050 Memoria de la gráfica 0 mb",
+    "DimensionesPeso": "Peso sin embalaje 1,98 kg Altura 2,2 cm Ancho 32,3 cm Profundidad 23 cm",
+    "Codigo": "Z1T-00012",
+    "Precio": "3.785,26 €",
+    "Pantalla": "Tamaño pantalla 14,4 \" Pantalla táctil Si Tipo de pantalla IPS Resolución (Estándar) 2496 x 1664 Superficie de la pantalla Brillo Luminosidad 650 cd/m2 Contraste 1.500:1",
+    "General": "Color Gris Trusted Platform Module (TPM) Si",
+    "Conexiones": "Conexión a red móvil No Ethernet No presente Porte VGA No Bluetooth Si Puerto Thunderbolt Si Puerto HDMI No",
+    "Audio": "Micrófono Integrado Si",
+    "Bateria": "Número celdas 4 Duración de la batería hasta 19 h",
+    "Webcam": "Webcam integrada Si Resolución Webcam 1920 x 1080",
+    "Teclado": ""
+}
