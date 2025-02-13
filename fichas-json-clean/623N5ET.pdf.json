@@ -1,0 +1,20 @@
+{
+    "Marca": "hp",
+    "Nombre": "HP Pro Torre 290 G9",
+    "SistemaOperativo": "Sistema operativo Windows 11 Versión sistema operativo Professional Imagen Precargada de Office (atcivabile con PKC) Ninguna Duracion antivirus incluido 0 months",
+    "Procesador": "Familia del Procesador Intel Core i5 Modelo del procesador i5-13500 Velocidad de clock 2,5 GHZ Fabricante Procesador Intel",
+    "RAM": "RAM Instalada 8 GB Tecnología DDR4 RAM Máxima 64 GB Bancos RAM Libres 1 Frecuencia 3.200 MHz Bancos RAM Totales 2 Tipología DIMM",
+    "DiscoDuro": "Tamaño de los discos 256 GB Tipo Soporte 1 SSD Interfaz Soporte 1 SSD M.2 NVMe PCIe Dimensión Soporte 1 256 GB Número Soportes 2",
+    "TarjetaGrafica": "Modelo gráfica UHD Graphics 770 Memoria Dedicada 0 MB Integrada Si Fabricante Intel Resolución Máxima (Ancho) 0 Px Resolución Máxima (Altura) 0 Px",
+    "DimensionesPeso": "Altura Pc 33,7 mm Ancho Pc 15,5 mm Peso sin embalaje 4,7 Kg Profundidad Pc 30,3 mm",
+    "Codigo": "623N5ET",
+    "Precio": "693,82 €",
+    "Pantalla": "",
+    "General": "Factor de forma Tower Wireless No presente Bluetooth No Color Primario Negro Ratón Optico USB Refrigeración líquida No Teclado Standard Usb Altavoces No",
+    "Conexiones": "Nº puertos USB posteriores 0 Nº puertos USB frontales 0 Puertos USB 3.2 Gen 2 SuperSpeed+ (10 Gbps) Type-A 0 PCI 0 PCI-Express 1x 0 PCI-Express 16x 0 Puertos Serie 0 Audio - frontales 0 Audio - posteriores 0 Ps/2 0 Otros Conectores/Puertos Ranuras de expansión: 2 M.2; 1 PCIe 3 x1; 1 PCIe 4 x16 (1 ranura M.2 para WLAN y 1 ranura M.2 2242/2280 para almacenamiento.)",
+    "Audio": "",
+    "Bateria": "",
+    "Webcam": "",
+    "Teclado": "",
+    "Alimentador": "Potencia 180 W"
+}
