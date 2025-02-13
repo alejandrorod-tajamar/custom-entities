@@ -15,5 +15,6 @@
     "Audio": "Micrófono Integrado Si",
     "Bateria": "Número celdas 6 Duración de la batería hasta 18,5 h",
     "Webcam": "Webcam integrada Si Resolución Webcam 1920 x 1080 Infrarrojos Si",
-    "Teclado": "Teclado retroiluminado Si"
+    "Teclado": "Teclado retroiluminado Si",
+    "Alimentador": ""
 }

@@ -15,5 +15,6 @@
     "Audio": "Micrófono Integrado Si",
     "Bateria": "Número celdas 4 Duración de la batería hasta 13,5 h",
     "Webcam": "Webcam integrada Si",
-    "Teclado": ""
+    "Teclado": "",
+    "Alimentador": ""
 }

@@ -1,0 +1,20 @@
+{
+    "Marca": "DELLTechnologies",
+    "Nombre": "Dell Inspiron 3030 Desktop",
+    "SistemaOperativo": "Sistema operativo Windows 11 Versión sistema operativo Professional Imagen Precargada de Office (atcivabile con PKC) trial Duracion antivirus incluido 12 months",
+    "Procesador": "Familia del Procesador Intel Core i5 Modelo del procesador i5-12400 Velocidad de clock 2,5 GHZ Fabricante Procesador Intel Caché de tamaño total 18 MB",
+    "RAM": "RAM Instalada 8 GB Tecnología DDR5 RAM Máxima 64 GB Bancos RAM Libres 1 Frecuencia 4.800 MHZ Bancos RAM Totales 2 Tipología DIMM Dual Channel No",
+    "DiscoDuro": "Tamaño de los discos 512 GB Tipo Soporte 1 SSD Interfaz Soporte 1 M.2 PCIe NVMe Dimensión Soporte 1 512 GB Número Soportes 1 Tipología Controlador M.2",
+    "TarjetaGrafica": "Modelo gráfica UHD Graphics Memoria Dedicada 0 MB Integrada Si Fabricante Intel Resolución Máxima (Ancho) 4.096 Px Resolución Máxima (Altura) 2.160 Px",
+    "DimensionesPeso": "Altura Pc 324,3 mm Ancho Pc 154 mm Peso sin embalaje 7,05 Kg Profundidad Pc 292,8 mm",
+    "Codigo": "1D23K",
+    "Precio": "674,33 €",
+    "Pantalla": "",
+    "General": "Factor de forma Tower Wireless Wi-Fi 5 (802.11ac) Bluetooth Si Color Primario Azul Ratón Optico USB Refrigeración líquida No Teclado Standard Usb Altavoces No Order code* Sin unidad óptica",
+    "Conexiones": "Nº total de conectores 10 Nº total de puertos USB 8 Nº puertos USB posteriores 4 Nº puertos USB frontales 4 Puertos USB 2.0 High Speed Type-A 4 Puertos USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 3 Puertos USB 3.2 Gen 2 SuperSpeed+ (10 Gbps) Type-A 0 PCI 0 PCI-Express 1x 0 PCI-Express 16x 0 Puertos Serie 0 Audio - frontales 1 Audio - posteriores 1 Ps/2 0 Nº puertos HDMI 1 Nº puertos Mini HDMI 0 Nº puertos VGA 0 Nº puertos Display Port 1 Nº puertos DVI-I 0 Nº puertos DVI-D 0 Nº puertos 0 SATA 3.0 2 Socket M.2 (para SSD 0 Socket M.2 (para 0",
+    "Audio": "",
+    "Bateria": "",
+    "Webcam": "",
+    "Teclado": "",
+    "Alimentador": "Potencia 300 W"
+}

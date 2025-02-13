@@ -10,7 +10,7 @@ dir_output = 'fichas-json-clean/'
 fields_to_extract = [
     'Marca', 'Nombre', 'SistemaOperativo', 'Procesador', 'RAM', 'DiscoDuro', 
     'TarjetaGrafica', 'DimensionesPeso', 'Codigo', 'Precio', 'Pantalla', 
-    'General', 'Conexiones', 'Audio', 'Bateria', 'Webcam', 'Teclado'
+    'General', 'Conexiones', 'Audio', 'Bateria', 'Webcam', 'Teclado', 'Alimentador'
 ]
 
 # Función recursiva para buscar los campos

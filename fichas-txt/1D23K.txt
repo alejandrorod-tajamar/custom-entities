@@ -1,0 +1,231 @@
+ARTI Software
+DELLTechnologies
+ARTI SOFTWARE TEC. INF. S.L.
+ANTONIO PEREZ 7 4º-4
+28002 MADRID (28)
+Tel: +34656359467
+Fax:
+e-mail: jaromero@artisoft.es
+Dell Inspiron 3030 Desktop 300W TPM i5-12400 8/512GB SSD
+Intel UHD WLAN Kb Mouse W11 P
+Código: 1D23K
+674,33 €
+Grandes posibilidades. Tamaño reducido.
+Lo más grande no siempre es lo mejor. El pequeño sobremesa Inspiron incorpora los últimos procesadores
+Intel® Core™ y una memoria DDR5 de hasta 16 GB, todo ello en un diseño compacto que ahorra espacio.
+====
+G
+Diseñado para adaptarse a tu estilo de vida
+El sobremesa pequeño Inspiron incorpora funciones y capacidades de alto rendimiento en un chasis compacto
+diseñado para caber a la perfección en cualquier sitio.
+Preparado para el rendimiento
+Aborda sin esfuerzo cualquier tarea gracias a la potencia de los procesadores Intel® Core™ más recientes. No
+solo eso, sino que el sobremesa pequeño Inspiron puede admitir una memoria DDR5 de hasta 16 GB, lo cual te
+ofrece la capacidad de ampliación suficiente para añadir más memoria y satisfacer así futuras necesidades de
+computación. El sobremesa pequeño Inspiron cuenta con una opción de actualización de la SSD de hasta 1 TB
+para que almacenes todos tus archivos, fotografías y vídeos y accedas a ellos con facilidad.
+Diseñado para aumentar la productividad
+Ahora, el sobremesa pequeño Inspiron está listo para las tareas empresariales, gracias a incorporar una
+instancia de Trusted Platform Module integrada y fácil de usar para proteger tus datos. Además, cuenta con una
+amplia variedad de puertos y ranuras para conectar todos sus dispositivos personales y de empresa.
+*Algunos datos de esta descripción pueden ser opcionales y no estar presentes en este código de producto
+específico (por ejemplo, presencia de LTE o tipo de tarjeta gráfica, etc.). Consulte la ficha técnica.
+ALMACENAMIENTO
+Tamaño de los discos
+512 GB
+Número Soportes
+1
+PROCESADOR
+Familia del
+Procesador
+Caché de tamaño
+18 MB
+total
+GRAFICA
+Modelo gráfica
+Intel Core i5
+Garantía :
+12meses
+Tipo Soporte 1
+SSD
+Tipología Controlador
+Modelo del
+procesador
+UHD Graphics
+4.096 Px
+Resolución Máxima
+(Ancho)
+CONECTIVIDAD/PUERTOS
+Nº total de conectores
+10
+Puertos USB 2.0 High
+Speed Type-A
+4
+Puertos USB 3.2 Gen 1
+SuperSpeed (5 Gbps)
+Type-A
+0
+PCI-Express 1x
+Audio - posteriores
+1
+Nº puertos VGA
+0
+Nº puertos
+0
+Memoria Dedicada
+0 MB
+Resolución Máxima
+(Altura)
+Nº total de puertos
+8
+USB
+PCI-Express 16x
+0
+Ps/2
+Nº puertos Display
+1
+Port
+SATA 3.0
+2
+M.2
+i5-12400
+2.160 Px
+3
+0
+Interfaz Soporte 1
+M.2 PCIe
+NVMe
+Dimensión Soporte 1
+512 GB
+Velocidad de clock
+2,5 GHZ
+Fabricante Procesador
+Intel
+Integrada
+Si
+Fabricante
+Intel
+Nº puertos USB
+4
+posteriores
+Puertos USB 3.2 Gen 2
+0
+N° puertos USB
+frontales
+PCI
+4
+0
+SuperSpeed+ (10
+Gbps) Type-A
+Puertos Serie
+0
+Nº puertos HDMI
+1
+Nº puertos DVI-I
+0
+Audio - frontales
+1
+Nº puertos Mini HDMI
+0
+Nº puertos DVI-D
+0
+Socket M.2 (para SSD
+0
+Socket M.2 (para
+0
+Thunderbolt
+Otros
+Conectores/Puertos
+GENERAL
+Factor de forma
+Ratón
+Order code*
+UNIDAD OPTICA
+Tipología unidad
+instalada
+SATA/NVMe)
+tarjeta WiFi/BT)
+Puertos
+Parte frontal:
+2 puertos USB 2.0
+1 puerto USB 3.2 de 1.ª gen.
+1 puerto USB 3.2 tipo C de 1.ª generación
+1 conector universal para auriculares
+Parte trasera:
+2 puertos USB 2.0 con funciones de encendido y
+reactivación
+2 puertos USB 3.2 de 1.ª generación
+1 puerto de salida de línea de audio
+1 puerto DisplayPort 1.4
+1 puerto Ethernet RJ-45
+1 puerto HDMI 1.4b
+Nota: La resolución máxima admitida en el puerto HDMI
+1.4b es de 1920 x 1200.
+Tower
+Wireless
+Wi-Fi 5
+(802.11ac)
+No
+Bluetooth
+Si
+Color Primario
+Azul
+Optico USB
+Sin unidad óptica
+Refrigeración líquida
+Teclado
+Standard Usb
+Altavoces
+No
+Windows 11
+Pro
+SISTEMA OPERATIVO & SOFTWARE
+Sistema operativo
+RAM
+RAM Instalada
+8 GB
+Frecuencia
+DIMENSIONES Y PESO
+Altura Pc
+324,3 mm
+CONTROLADORA
+Raid
+LECTOR DE TARJETAS
+Lector de tarjetas
+ALIMENTADOR
+Potencia
+300 W
+Windows 11
+Versión sistema
+operativo
+Professional
+Imagen Precargada de
+trial
+Office (atcivabile con
+PKC)
+Duracion antivirus
+incluido
+12 months
+4.800 MHZ
+Tecnología
+Bancos RAM Totales
+DDR5
+2
+RAM Máxima
+Tipología
+DIMM
+64 GB
+Bancos RAM Libres
+1
+Dual Channel
+No
+Ancho Pc
+154 mm
+Peso sin embalaje
+7,05 Kg
+Profundidad Pc
+292,8 mm
+No
+LAN
+10/100/1000
+No se admite
