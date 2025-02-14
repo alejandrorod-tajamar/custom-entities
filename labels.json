@@ -1,0 +1,45 @@
+{
+    "projectFileVersion": "2022-05-01",
+    "stringIndexType": "Utf16CodeUnit",
+    "metadata": {
+      "projectKind": "CustomEntityRecognition",
+      "storageInputContainerName": "{CONTAINER-NAME}",
+      "projectName": "{PROJECT-NAME}",
+      "multilingual": false,
+      "description": "Proyecto de reconocimiento de entidades en descripciones de productos.",
+      "language": "es-es",
+      "settings": {}
+    },
+    "assets": {
+      "projectKind": "CustomEntityRecognition",
+      "entities": [
+        { "category": "Marca" },
+        { "category": "Nombre" },
+        { "category": "SistemaOperativo" },
+        { "category": "Procesador.Familia" },
+        { "category": "Procesador.Modelo" },
+        { "category": "Procesador.Fabricante" },
+        { "category": "Procesador.Frecuencia" },
+        { "category": "Procesador.Núcleos" },
+        { "category": "RAM.Instalada" },
+        { "category": "RAM.Máxima" },
+        { "category": "RAM.Velocidad" },
+        { "category": "RAM.Tecnología" },
+        { "category": "DiscoDuro.Capacidad" },
+        { "category": "DiscoDuro.Tipo" },
+        { "category": "DiscoDuro.Interfaz" },
+        { "category": "TarjetaGrafica.Fabricante" },
+        { "category": "TarjetaGrafica.Modelo" },
+        { "category": "TarjetaGrafica.Memoria" },
+        { "category": "Pantalla.Tamaño" },
+        { "category": "Pantalla.Resolución" },
+        { "category": "Pantalla.TiempoRefresco" },
+        { "category": "Conexiones.Bluetooth.Versión" },
+        { "category": "Bateria.Duración" },
+        { "category": "Bateria.Capacidad" },
+        { "category": "Teclado.Retroiluminado" }
+      ],
+      "documents": []
+    }
+  }
+  
