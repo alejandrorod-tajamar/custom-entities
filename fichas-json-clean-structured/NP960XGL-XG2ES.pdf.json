@@ -5,36 +5,33 @@
             "Nombre": "GALAXY BOOK4 ULTRA",
             "SistemaOperativo": "Version S.O. Windows 11 Home Software incluido Galaxy Productivity: Control y Colaboración Galaxy Book Experience experiencia fácil multidispositivo",
             "Procesador": {
-                "Familia": "intel Core Ultra 9",
+                "Familia": "Procesador intel Core Ultra 9",
                 "Modelo": "185H",
                 "Fabricante": "Intel",
                 "Frecuencia": "1,4 GHz",
-                "DetallesAdicionales": {
-                    "FrecuenciaTurbo": "5,1 GHz"
-                }
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32GB",
-                "Maxima": "32GB",
-                "Libres": "0",
+                "Máxima": "32GB",
+                "BancosLibres": "0",
                 "Velocidad": "7.467 MHz",
-                "Tecnologia": "LPDDR5X"
+                "Tecnología": "LPDDR5X"
             },
             "DiscoDuro": {
-                "Tamaño": "1.000 GB",
+                "Capacidad": "1.000 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NumeroSoportes": "1",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "1",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": false,
+                "Integrada": "No",
                 "Fabricante": "Nvidia",
                 "Modelo": "GeForce RTX 4070",
-                "Memoria": "12.228 mb",
-                "DetallesAdicionales": {}
+                "Memoria": "12.228 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "1,86 kg",
                 "Altura": "25,05 cm",
                 "Ancho": "35,54 cm",
@@ -44,77 +41,52 @@
             "Precio": "3.247,24 €",
             "Pantalla": {
                 "Tamaño": "16\"",
-                "Tactil": true,
+                "Táctil": "Si",
                 "Tipo": "AMOLED",
-                "Resolucion": "2880 x 1800",
-                "DetallesAdicionales": {
-                    "Superficie": "Mate"
-                }
+                "Resolución": "2880 x 1800",
+                "Superficie": "Mate",
+                "Luminosidad": "",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Moonstone Grey",
-                "TPM": true,
-                "DetallesAdicionales": {
-                    "TipoProducto": "Ultrabook",
-                    "MaterialChasis": "Aluminio + Magnesio",
-                    "DeteccionHuella": true,
-                    "Detachable": false,
-                    "Convertibili": false,
-                    "CarcasaCableSeguridad": false
-                }
+                "TPM": "Si",
+                "MaterialChasis": "Aluminio + Magnesio",
+                "DetecciónHuella": "Si",
+                "Convertibilidad": "2 en 1"
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": false,
-                "PuertosUSB": {
-                    "Total": 3,
-                    "PuertosUSB": [
-                        {
-                            "Tipo": "3.2 Gen 1 SuperSpeed",
-                            "Velocidad": "5 Gbps",
-                            "Cantidad": 1,
-                            "Conector": "Type-A"
-                        },
-                        {
-                            "Tipo": "3.2 Gen 2x2 SuperSpeed",
-                            "Velocidad": "20 Gbps",
-                            "Cantidad": 1,
-                            "Conector": "Type-C"
-                        },
-                        {
-                            "Tipo": "3.2 Gen 2x2 SuperSpeed",
-                            "Velocidad": "20 Gbps",
-                            "Cantidad": 2,
-                            "Conector": "Type-C"
-                        }
-                    ]
+                "ConexiónRedMóvil": "No",
+                "NºPuertosUSB": "3",
+                "PuertosUSB": "3.2 Gen 1 SuperSpeed (5 Gbps) Type-A, 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C",
+                "Ethernet": "No presente",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": "5,3"
                 },
-                "Bluetooth": true,
-                "Otros": {
-                    "BluetoothVersion": "5,3",
-                    "PuertoHDMI": true,
-                    "WirelessStandard": "Wifi 6E (802.11ax)",
-                    "DetallesAdicionales": "El HDMI es 2.1 (Supports 8K@60Hz, 5K@120Hz), los dos USB-C son Thunderbolt 4, Headphone out/Mic-in Combo, Tipo de puerto de carga USB Type-C"
-                }
+                "PuertoThunderbolt": "No",
+                "PuertoHDMI": "Si",
+                "OtrasConexiones": "HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz), los dos USB-C son Thunderbolt 4, Headphone out/Mic-in Combo, USB Type-C"
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "1",
-                "Duracion": "hasta 21 h"
+                "NúmeroCeldas": "1",
+                "Duración": "hasta 21 h",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": "1920 x 1080"
+                "Integrada": "Si",
+                "Resolución": "1920 x 1080",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": true
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "Si",
+                "Retroiluminado": "Si",
+                "NúmeroTeclas": ""
             }
         }
     ]

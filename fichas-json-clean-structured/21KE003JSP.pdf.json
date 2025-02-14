@@ -9,32 +9,29 @@
                 "Modelo": "155U",
                 "Fabricante": "Intel",
                 "Frecuencia": "4,8 GHZ",
-                "DetallesAdicionales": {}
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32 GB",
-                "Maxima": "32 GB",
-                "Libres": "0",
+                "Máxima": "32 GB",
+                "BancosLibres": "0",
                 "Velocidad": "6.400 MHZ",
-                "Tecnologia": "LPDDR5"
+                "Tecnología": "LPDDR5"
             },
             "DiscoDuro": {
-                "Tamaño": "1.024 GB",
+                "Capacidad": "1.024 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NumeroSoportes": "1",
-                "DetallesAdicionales": {
-                    "Velocidad": "2.280 rpm"
-                }
+                "NúmeroSoportes": "1",
+                "Velocidad": "2.280 rpm"
             },
             "TarjetaGrafica": {
-                "Integrada": false,
+                "Integrada": "No",
                 "Fabricante": "Intel",
                 "Modelo": "Intel Graphics",
-                "Memoria": "0 mb",
-                "DetallesAdicionales": {}
+                "Memoria": "0 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "1,35 kg",
                 "Altura": "31,28 cm",
                 "Ancho": "1,55 cm",
@@ -44,59 +41,52 @@
             "Precio": "2.788,24 €",
             "Pantalla": {
                 "Tamaño": "14\"",
-                "Tactil": true,
+                "Táctil": "Si",
                 "Tipo": "IPS",
-                "Resolucion": "2880 x 1800",
-                "DetallesAdicionales": {
-                    "Superficie": "Mate",
-                    "Luminosidad": "400 cd/m2"
-                }
+                "Resolución": "2880 x 1800",
+                "Superficie": "Mate",
+                "Luminosidad": "400 cd/m2",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Gris",
-                "TPM": true,
-                "DetallesAdicionales": {}
+                "TPM": "Si",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": true,
-                "Ethernet": false,
-                "PuertosUSB": {
-                    "Standard Ports": [
-                        "1x USB-A (USB 5Gbps / USB 3.2 Gen 1)",
-                        "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On",
-                        "2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1",
-                        "1x HDMI® 2.1, up to 4K/60Hz",
-                        "1x Headphone / microphone combo jack (3.5mm)"
-                    ],
-                    "Optional Ports": [
-                        "1x Nano-SIM Card Slot"
-                    ]
+                "ConexiónRedMóvil": "Si",
+                "NºPuertosUSB": "",
+                "PuertosUSB": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On, 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), 1x HDMI® 2.1, up to 4K/60Hz, 1x Headphone / microphone combo jack (3.5mm)",
+                "Ethernet": "No presente",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": ""
                 },
-                "Bluetooth": true,
-                "Otros": {
-                    "WWAN": "Quectel RM520N-GL, 5G Sub-6 GHz, with Embedded eSIM",
-                    "SIM Card": "NO",
-                    "NFC": "NO"
-                }
+                "PuertoThunderbolt": "Si",
+                "PuertoHDMI": "Si",
+                "OtrasConexiones": "WWAN Quectel RM520N-GL, 5G Sub-6 GHz, with Embedded eSIM NO SIM Card NO NFC Standard Ports 1x Nano-SIM Card Slot"
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "3",
-                "Duracion": ""
+                "NúmeroCeldas": "3",
+                "Duración": "",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": ""
+                "Integrada": "Si",
+                "Resolución": "",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "",
+                "Retroiluminado": "",
+                "NúmeroTeclas": ""
             }
         }
     ]

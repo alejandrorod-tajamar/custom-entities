@@ -8,31 +8,30 @@
                 "Familia": "Intel Core i7",
                 "Modelo": "i7-1360P",
                 "Fabricante": "Intel",
-                "Frecuencia": "2,2 GHz",
-                "DetallesAdicionales": {}
+                "Frecuencia": "2,2 GHZ",
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32 GB",
-                "Maxima": "32 GB",
-                "Libres": "0",
+                "Máxima": "32 GB",
+                "BancosLibres": "0",
                 "Velocidad": "6.000 MHz",
-                "Tecnologia": "LPDDR5"
+                "Tecnología": "LPDDR5"
             },
             "DiscoDuro": {
-                "Tamaño": "1.000 GB",
+                "Capacidad": "1.000 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NumeroSoportes": "1",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "1",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": true,
+                "Integrada": "Si",
                 "Fabricante": "Intel",
                 "Modelo": "RTX™ 3050 Ti",
-                "Memoria": "18 mb",
-                "DetallesAdicionales": {}
+                "Memoria": "18 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "1,45 kg",
                 "Altura": "25,88 cm",
                 "Ancho": "37,88 cm",
@@ -42,59 +41,52 @@
             "Precio": "2.205,78 €",
             "Pantalla": {
                 "Tamaño": "17\"",
-                "Tactil": false,
+                "Táctil": "No",
                 "Tipo": "IPS",
-                "Resolucion": "2560 x 1600",
-                "DetallesAdicionales": {
-                    "Superficie": "Mate"
-                }
+                "Resolución": "2560 x 1600",
+                "Superficie": "Mate",
+                "Luminosidad": "",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Negro",
-                "TPM": true,
-                "DetallesAdicionales": {}
+                "TPM": "Si",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": false,
-                "PuertosUSB": {
-                    "Total": 4,
-                    "Detalles": [
-                        {
-                            "Tipo": "USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A",
-                            "Cantidad": 2
-                        },
-                        {
-                            "Tipo": "USB 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C",
-                            "Cantidad": 2
-                        }
-                    ]
+                "ConexiónRedMóvil": "No",
+                "NºPuertosUSB": "4",
+                "PuertosUSB": "3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 2, 3.2 Gen 2x2 SuperSpeed (20 Gbps) Type-C 2",
+                "Ethernet": "No presente",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": ""
                 },
-                "Bluetooth": true,
-                "Otros": {
-                    "Puerto Thunderbolt": true,
-                    "Puerto HDMI": true,
-                    "Puerto VGA": false
-                }
+                "PuertoThunderbolt": "Si",
+                "PuertoHDMI": "Si",
+                "OtrasConexiones": ""
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "4",
-                "Duracion": "hasta 20 h"
+                "NúmeroCeldas": "4",
+                "Duración": "hasta 20 h",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": "1920 x 1080"
+                "Integrada": "Si",
+                "Resolución": "1920 x 1080",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "101",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "Si",
+                "Retroiluminado": "",
+                "NúmeroTeclas": "101"
             }
         }
     ]

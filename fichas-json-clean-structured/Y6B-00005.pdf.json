@@ -9,33 +9,29 @@
                 "Modelo": "i7-165U",
                 "Fabricante": "Intel",
                 "Frecuencia": "1,7 GHZ",
-                "DetallesAdicionales": {
-                    "FrecuenciaTurbo": "4,9 GHZ",
-                    "IntelVpro": "No"
-                }
+                "Núcleos": "No especificado"
             },
             "RAM": {
                 "Instalada": "32 GB",
-                "Maxima": "32 GB",
-                "Libres": "0",
+                "Máxima": "32 GB",
+                "BancosLibres": "0",
                 "Velocidad": "8.533 MHZ",
-                "Tecnologia": "LPDDR5X"
+                "Tecnología": "LPDDR5X"
             },
             "DiscoDuro": {
-                "Tamaño": "512 GB",
+                "Capacidad": "512 GB",
                 "Tipo": "Hybrid-HDD",
                 "Interfaz": "SSD",
-                "NumeroSoportes": "1",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "1",
+                "Velocidad": "No especificado"
             },
             "TarjetaGrafica": {
-                "Integrada": true,
+                "Integrada": "Si",
                 "Fabricante": "Intel",
                 "Modelo": "Intel Graphics",
-                "Memoria": "0 mb",
-                "DetallesAdicionales": {}
+                "Memoria": "0 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "0,88 kg",
                 "Altura": "28,7 cm",
                 "Ancho": "20,8 cm",
@@ -45,69 +41,52 @@
             "Precio": "2.311,45 €",
             "Pantalla": {
                 "Tamaño": "13\"",
-                "Tactil": true,
+                "Táctil": "Si",
                 "Tipo": "LCD",
-                "Resolucion": "2880 x 1920",
-                "DetallesAdicionales": {
-                    "Brillo": "600 cd/m2",
-                    "Contraste": "1.300:1"
-                }
+                "Resolución": "2880 x 1920",
+                "Superficie": "Brillo",
+                "Luminosidad": "600 cd/m2",
+                "Contraste": "1.300:1",
+                "TiempoRefresco": "No especificado"
             },
             "General": {
                 "Color": "Gris",
-                "TPM": true,
-                "DetallesAdicionales": {
-                    "Material": "Aluminio",
-                    "DeteccionHuella": "No",
-                    "DosEnUno": true,
-                    "Convertibilidad": true
-                }
+                "TPM": "Si",
+                "MaterialChasis": "Aluminio",
+                "DetecciónHuella": "No",
+                "Convertibilidad": "2 in 1"
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": false,
-                "PuertosUSB": {
-                    "NumeroTotal": 2,
-                    "Tipo": [
-                        {
-                            "Version": "USB 4.0/ Thunderbolt 4",
-                            "Cantidad": 2
-                        }
-                    ]
+                "ConexiónRedMóvil": "No",
+                "NºPuertosUSB": "4",
+                "PuertosUSB": "2 (40 Gbps) Type-C",
+                "Ethernet": "No presente",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": "5,3"
                 },
-                "Bluetooth": true,
-                "Otros": {
-                    "BluetoothVersion": "5,3",
-                    "PuertoThunderbolt": true,
-                    "PuertoHDMI": false,
-                    "ConexionesAdicionales": [
-                        "2 x USB-C",
-                        "1 x Surface Connect port",
-                        "1 x Surface Type Cover port",
-                        "M.2 rSSD"
-                    ],
-                    "ConexionDockstation": true,
-                    "StandardWireless": "Wi-Fi 6 (802.11ax)"
-                }
+                "PuertoThunderbolt": "Si",
+                "PuertoHDMI": "No",
+                "OtrasConexiones": "2 x USB-C with USB 4.0/ Thunderbolt 4, 1 x Surface Connect port, 1 x Surface Type Cover port"
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": "No especificado"
             },
             "Bateria": {
-                "NumeroCeldas": "4",
-                "Duracion": "hasta 19 h"
+                "NúmeroCeldas": "4",
+                "Duración": "hasta 19 h",
+                "Capacidad": "No especificado"
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": "1920 x 1080"
+                "Integrada": "Si",
+                "Resolución": "1920 x 1080",
+                "Infrarrojos": "Si"
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "No",
+                "Retroiluminado": "No",
+                "NúmeroTeclas": "No especificado"
             }
         }
     ]

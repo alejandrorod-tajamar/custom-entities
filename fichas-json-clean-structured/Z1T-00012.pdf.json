@@ -9,30 +9,29 @@
                 "Modelo": "i7-13800H",
                 "Fabricante": "Intel",
                 "Frecuencia": "5,2 GHZ",
-                "DetallesAdicionales": {}
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32 GB",
-                "Maxima": "32 GB",
-                "Libres": "0",
+                "Máxima": "32 GB",
+                "BancosLibres": "0",
                 "Velocidad": "4,27 MHz",
-                "Tecnologia": "LPDDR5"
+                "Tecnología": "LPDDR5"
             },
             "DiscoDuro": {
-                "Tamaño": "1.000 GB",
+                "Capacidad": "1.000 GB",
                 "Tipo": "SSD",
                 "Interfaz": "SSD",
-                "NumeroSoportes": "1",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "1",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": true,
+                "Integrada": "Si",
                 "Fabricante": "Intel",
                 "Modelo": "Geforce RTX 2050",
-                "Memoria": "0 MB",
-                "DetallesAdicionales": {}
+                "Memoria": "0 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "1,98 kg",
                 "Altura": "2,2 cm",
                 "Ancho": "32,3 cm",
@@ -42,48 +41,52 @@
             "Precio": "3.785,26 €",
             "Pantalla": {
                 "Tamaño": "14,4 \"",
-                "Tactil": true,
+                "Táctil": "Si",
                 "Tipo": "IPS",
-                "Resolucion": "2496 x 1664",
-                "DetallesAdicionales": {
-                    "Brillo": "650 cd/m2",
-                    "Contraste": "1.500:1"
-                }
+                "Resolución": "2496 x 1664",
+                "Superficie": "",
+                "Luminosidad": "650 cd/m2",
+                "Contraste": "1.500:1",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Gris",
-                "TPM": true,
-                "DetallesAdicionales": {}
+                "TPM": "Si",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": false,
-                "PuertosUSB": {
-                    "VGA": false,
-                    "Bluetooth": true,
-                    "Thunderbolt": true,
-                    "HDMI": false
+                "ConexiónRedMóvil": "No",
+                "NºPuertosUSB": "",
+                "PuertosUSB": "",
+                "Ethernet": "No presente",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": ""
                 },
-                "Otros": {}
+                "PuertoThunderbolt": "Si",
+                "PuertoHDMI": "No",
+                "OtrasConexiones": "Porte VGA No"
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "4",
-                "Duracion": "hasta 19 h"
+                "NúmeroCeldas": "4",
+                "Duración": "hasta 19 h",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": "1920 x 1080"
+                "Integrada": "Si",
+                "Resolución": "1920 x 1080",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "",
+                "Retroiluminado": "",
+                "NúmeroTeclas": ""
             }
         }
     ]
