@@ -9,30 +9,29 @@
                 "Modelo": "M4 Max",
                 "Fabricante": "Apple",
                 "Frecuencia": "",
-                "DetallesAdicionales": {}
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "36 GB",
-                "Maxima": "36 GB",
-                "Libres": "",
+                "Máxima": "36 GB",
+                "BancosLibres": "",
                 "Velocidad": "",
-                "Tecnologia": "n.d."
+                "Tecnología": "n.d."
             },
             "DiscoDuro": {
-                "Tamaño": "1.064 GB",
+                "Capacidad": "1.064 GB",
                 "Tipo": "SSD",
                 "Interfaz": "Non presente",
-                "NumeroSoportes": "0",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "0",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": true,
+                "Integrada": "Si",
                 "Fabricante": "Apple",
                 "Modelo": "",
-                "Memoria": "",
-                "DetallesAdicionales": {}
+                "Memoria": ""
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "",
                 "Altura": "",
                 "Ancho": "",
@@ -42,43 +41,52 @@
             "Precio": "3.849,00 €",
             "Pantalla": {
                 "Tamaño": "14,2 \"",
-                "Tactil": false,
+                "Táctil": "No",
                 "Tipo": "QLED",
-                "Resolucion": "3024 x 1964",
-                "DetallesAdicionales": {
-                    "Superficie": "Mate"
-                }
+                "Resolución": "3024 x 1964",
+                "Superficie": "Mate",
+                "Luminosidad": "",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Plata",
-                "TPM": false,
-                "DetallesAdicionales": {}
+                "TPM": "No",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": false,
-                "PuertosUSB": {},
-                "Bluetooth": false,
-                "Otros": {}
+                "ConexiónRedMóvil": "No",
+                "NºPuertosUSB": "",
+                "PuertosUSB": "",
+                "Ethernet": "",
+                "Bluetooth": {
+                    "Disponible": "",
+                    "Versión": ""
+                },
+                "PuertoThunderbolt": "",
+                "PuertoHDMI": "",
+                "OtrasConexiones": ""
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "",
-                "Duracion": ""
+                "NúmeroCeldas": "",
+                "Duración": "",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": ""
+                "Integrada": "Si",
+                "Resolución": "",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "",
+                "Retroiluminado": "",
+                "NúmeroTeclas": ""
             }
         }
     ]

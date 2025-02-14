@@ -2,14 +2,14 @@
     "Productos": [
         {
             "Marca": "DELLTechnologies",
-            "Nombre": "Dell XPS 14 9440U7",
-            "SistemaOperativo": "Version S.O. Windows 11 Pro Bit S.O. 64",
+            "Nombre": "Dell XPS 13 9350U7",
+            "SistemaOperativo": "Version S.O. Windows 11 Pro Bit S.O. 64 Software Incluido Intel® ME Disabled",
             "Procesador": {
-                "Familia": "Intel Core Ultra",
-                "Modelo": "155H",
+                "Familia": "Intel Core Ultra 7",
+                "Modelo": "258V",
                 "Fabricante": "Intel",
-                "Frecuencia": "4,8",
-                "Núcleos": "16"
+                "Frecuencia": "4,8 GHZ",
+                "Núcleos": "8"
             },
             "RAM": {
                 "Instalada": "32",
@@ -27,30 +27,30 @@
             },
             "TarjetaGrafica": {
                 "Integrada": "Si",
-                "Fabricante": "Nvidia",
-                "Modelo": "Geforce RTX 4050",
+                "Fabricante": "Intel",
+                "Modelo": "Intel Arc Graphics",
                 "Memoria": ""
             },
             "DimensionesPeso": {
-                "Peso": "1,74 kg",
-                "Altura": "1,8 cm",
-                "Ancho": "32",
-                "Profundidad": "21,6 cm"
+                "Peso": "2,73 kg",
+                "Altura": "10,6 cm",
+                "Ancho": "32,16 cm",
+                "Profundidad": "39,6 cm"
             },
-            "Codigo": "DTPF3",
-            "Precio": "2.628,52 €",
+            "Codigo": "FMDDY",
+            "Precio": "2.303,03 €",
             "Pantalla": {
-                "Tamaño": "14,5",
+                "Tamaño": "13,4",
                 "Táctil": "Si",
                 "Tipo": "OLED",
-                "Resolución": "3200 x 2000",
+                "Resolución": "2880 × 1800",
                 "Superficie": "",
                 "Luminosidad": "400",
                 "Contraste": "1.000.000",
-                "TiempoRefresco": "120"
+                "TiempoRefresco": "60"
             },
             "General": {
-                "Color": "Gris",
+                "Color": "Plata",
                 "TPM": "Si",
                 "MaterialChasis": "Aluminio",
                 "DetecciónHuella": "Si",
@@ -59,7 +59,7 @@
             "Conexiones": {
                 "ConexiónRedMóvil": "No",
                 "NºPuertosUSB": "0",
-                "PuertosUSB": "2.0 High Speed Type-A 0, 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 0",
+                "PuertosUSB": "2.0 High Speed Type-A 0, USB 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 0",
                 "Ethernet": "No presente",
                 "Bluetooth": {
                     "Disponible": "Si",
@@ -67,16 +67,16 @@
                 },
                 "PuertoThunderbolt": "Si",
                 "PuertoHDMI": "Si",
-                "OtrasConexiones": "Wifi 6E (802.11ax), USB Type-C"
+                "OtrasConexiones": "Wireless (standard) Wifi 7 (802.11be), Tipo de puerto de carga USB Type-C"
             },
             "Audio": {
                 "MicrófonoIntegrado": "Si",
-                "Altavoces": "Waves"
+                "Altavoces": ""
             },
             "Bateria": {
-                "NúmeroCeldas": "6",
+                "NúmeroCeldas": "3",
                 "Duración": "",
-                "Capacidad": "69,5"
+                "Capacidad": "55"
             },
             "Webcam": {
                 "Integrada": "Si",

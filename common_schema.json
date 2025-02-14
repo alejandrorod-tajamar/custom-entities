@@ -9,30 +9,29 @@
                 "Modelo": "",
                 "Fabricante": "",
                 "Frecuencia": "",
-                "DetallesAdicionales": {}
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "",
-                "Maxima": "",
-                "Libres": "",
+                "Máxima": "",
+                "BancosLibres": "",
                 "Velocidad": "",
-                "Tecnologia": ""
+                "Tecnología": ""
             },
             "DiscoDuro": {
-                "Tamaño": "",
+                "Capacidad": "",
                 "Tipo": "",
                 "Interfaz": "",
-                "NumeroSoportes": "",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": false,
+                "Integrada": "",
                 "Fabricante": "",
                 "Modelo": "",
-                "Memoria": "",
-                "DetallesAdicionales": {}
+                "Memoria": ""
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "",
                 "Altura": "",
                 "Ancho": "",
@@ -42,41 +41,52 @@
             "Precio": "",
             "Pantalla": {
                 "Tamaño": "",
-                "Tactil": false,
+                "Táctil": "",
                 "Tipo": "",
-                "Resolucion": "",
-                "DetallesAdicionales": {}
+                "Resolución": "",
+                "Superficie": "",
+                "Luminosidad": "",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "",
-                "TPM": false,
-                "DetallesAdicionales": {}
+                "TPM": "",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": false,
-                "PuertosUSB": {},
-                "Bluetooth": false,
-                "Otros": {}
+                "ConexiónRedMóvil": "",
+                "NºPuertosUSB": "",
+                "PuertosUSB": "",
+                "Ethernet": "",
+                "Bluetooth": {
+                    "Disponible": "",
+                    "Versión": ""
+                },
+                "PuertoThunderbolt": "",
+                "PuertoHDMI": "",
+                "OtrasConexiones": ""
             },
             "Audio": {
-                "Micrófono": false,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "",
-                "Duracion": ""
+                "NúmeroCeldas": "",
+                "Duración": "",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": false,
-                "Resolucion": ""
+                "Integrada": "",
+                "Resolución": "",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "",
+                "Retroiluminado": "",
+                "NúmeroTeclas": ""
             }
         }
     ]

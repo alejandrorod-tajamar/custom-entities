@@ -9,30 +9,29 @@
                 "Modelo": "164U",
                 "Fabricante": "Intel",
                 "Frecuencia": "4,4 GHZ",
-                "DetallesAdicionales": {}
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32 GB",
-                "Maxima": "32 GB",
-                "Libres": "0",
+                "Máxima": "32 GB",
+                "BancosLibres": "0",
                 "Velocidad": "7.467 MHZ",
-                "Tecnologia": "DDR5"
+                "Tecnología": "DDR5"
             },
             "DiscoDuro": {
-                "Tamaño": "1.024 GB",
+                "Capacidad": "1.024 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NumeroSoportes": "1",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "1",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": false,
+                "Integrada": "No",
                 "Fabricante": "Intel",
                 "Modelo": "UHD Graphics",
-                "Memoria": "0 mb",
-                "DetallesAdicionales": {}
+                "Memoria": "0 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "1,54 kg",
                 "Altura": "1,28 cm",
                 "Ancho": "31,1 cm",
@@ -42,44 +41,52 @@
             "Precio": "2.542,61 €",
             "Pantalla": {
                 "Tamaño": "14\"",
-                "Tactil": true,
+                "Táctil": "Si",
                 "Tipo": "TFT",
-                "Resolucion": "2560 x 1600",
-                "DetallesAdicionales": {}
+                "Resolución": "2560 x 1600",
+                "Superficie": "",
+                "Luminosidad": "",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Gris",
-                "TPM": false,
-                "DetallesAdicionales": {}
+                "TPM": "No",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": true,
-                "Ethernet": true,
-                "PuertosUSB": {},
-                "Bluetooth": true,
-                "Otros": {
-                    "Puerto Thunderbolt": true,
-                    "Puerto HDMI": false
-                }
+                "ConexiónRedMóvil": "Si",
+                "NºPuertosUSB": "",
+                "PuertosUSB": "",
+                "Ethernet": "Ethernet 10/100/1000",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": ""
+                },
+                "PuertoThunderbolt": "Si",
+                "PuertoHDMI": "No",
+                "OtrasConexiones": "Porte VGA No"
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "3",
-                "Duracion": ""
+                "NúmeroCeldas": "3",
+                "Duración": "",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": ""
+                "Integrada": "Si",
+                "Resolución": "",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "",
+                "Retroiluminado": "",
+                "NúmeroTeclas": ""
             }
         }
     ]

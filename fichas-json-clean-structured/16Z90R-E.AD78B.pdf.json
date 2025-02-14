@@ -9,30 +9,29 @@
                 "Modelo": "i7-1360P",
                 "Fabricante": "Intel",
                 "Frecuencia": "2,2 GHZ",
-                "DetallesAdicionales": {}
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32 GB",
-                "Maxima": "32 GB",
-                "Libres": "0",
+                "Máxima": "32 GB",
+                "BancosLibres": "0",
                 "Velocidad": "6.000 MHz",
-                "Tecnologia": "LPDDR5"
+                "Tecnología": "LPDDR5"
             },
             "DiscoDuro": {
-                "Tamaño": "1.000 GB",
+                "Capacidad": "1.000 GB",
                 "Tipo": "SSD",
                 "Interfaz": "PCI Express 4.0",
-                "NumeroSoportes": "2",
-                "DetallesAdicionales": {}
+                "NúmeroSoportes": "2",
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
-                "Integrada": true,
+                "Integrada": "No",
                 "Fabricante": "Nvidia",
                 "Modelo": "Iris Xe Graphics",
-                "Memoria": "0 mb",
-                "DetallesAdicionales": {}
+                "Memoria": "0 mb"
             },
-            "Dimensiones": {
+            "DimensionesPeso": {
                 "Peso": "1,2 kg",
                 "Altura": "35,51 cm",
                 "Ancho": "24,23 cm",
@@ -42,45 +41,52 @@
             "Precio": "2.130,00 €",
             "Pantalla": {
                 "Tamaño": "16\"",
-                "Tactil": false,
+                "Táctil": "No",
                 "Tipo": "IPS",
-                "Resolucion": "2560 x 1600",
-                "DetallesAdicionales": {}
+                "Resolución": "2560 x 1600",
+                "Superficie": "n/d",
+                "Luminosidad": "",
+                "Contraste": "",
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Negro",
-                "TPM": true,
-                "DetallesAdicionales": {}
+                "TPM": "Si",
+                "MaterialChasis": "",
+                "DetecciónHuella": "",
+                "Convertibilidad": ""
             },
             "Conexiones": {
-                "Movil": false,
-                "Ethernet": true,
-                "PuertosUSB": {},
-                "Bluetooth": true,
-                "Otros": {
-                    "Bluetooth Version": "5,1",
-                    "Thunderbolt": true,
-                    "HDMI": true
-                }
+                "ConexiónRedMóvil": "No",
+                "NºPuertosUSB": "",
+                "PuertosUSB": "",
+                "Ethernet": "10/100",
+                "Bluetooth": {
+                    "Disponible": "Si",
+                    "Versión": "5,1"
+                },
+                "PuertoThunderbolt": "Si",
+                "PuertoHDMI": "Si",
+                "OtrasConexiones": ""
             },
             "Audio": {
-                "Micrófono": true,
-                "DetallesAdicionales": {}
+                "MicrófonoIntegrado": "Si",
+                "Altavoces": ""
             },
             "Bateria": {
-                "NumeroCeldas": "4",
-                "Duracion": "hasta 13,5 h"
+                "NúmeroCeldas": "4",
+                "Duración": "hasta 13,5 h",
+                "Capacidad": ""
             },
             "Webcam": {
-                "Integrada": true,
-                "Resolucion": ""
+                "Integrada": "Si",
+                "Resolución": "",
+                "Infrarrojos": ""
             },
             "Teclado": {
-                "NumeroTeclas": "",
-                "Retroiluminado": false
-            },
-            "Alimentador": {
-                "Potencia": ""
+                "Numérico": "",
+                "Retroiluminado": "",
+                "NúmeroTeclas": ""
             }
         }
     ]
