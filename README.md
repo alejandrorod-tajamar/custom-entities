@@ -2,7 +2,7 @@
 
 ## Uso de la aplicación
 
-- Acceder al enlace: []()
+- Acceder al enlace: [https://alejandrorod-tajamar-custom-entities-app-v5-esjq1b.streamlit.app/](https://alejandrorod-tajamar-custom-entities-app-v5-esjq1b.streamlit.app/)
 - Utilizar las [preguntas de ejemplo](example-inputs.md) como guía para probar el chatbot.
 - Escribir mensajes propios en el chat que sean similares a los de ejemplo para comprobar cuáles funcionan mejor.
 - Para ver la intención y las entidades detectadas en cada mensaje mandado, expandir el desplegable de la parte superior del chat.
