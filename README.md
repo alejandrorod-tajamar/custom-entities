@@ -65,7 +65,7 @@ AZURE_TRANSLATOR_ENDPOINT=
 AZURE_TRANSLATOR_KEY=
 ```
 
-Por último, utiliza la última sección de código en [app.py](/app.py) para hacer pruebas y editar el input que le quieras mandar a tu app. Para ejecutarla, utiliza:
+Por último, utiliza la última sección de código en [app_v5.py](/app_v5.py) para hacer pruebas y editar el input que le quieras mandar a tu app. Para ejecutarla, utiliza:
 
 ```cmd
 py app_v5.py
