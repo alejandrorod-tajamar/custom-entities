@@ -15,9 +15,18 @@ PROJECT_NAME = os.getenv("PROJECT_NAME")
 DEPLOYMENT_NAME = os.getenv("DEPLOYMENT_NAME")  
 OPENAI_ENDPOINT = os.getenv("OPENAI_ENDPOINT")  
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  
-RUTA_JSON = "fichas-json-clean-structured/"  
+
+# Cargar credenciales desde Streamlit Secrets
+AZURE_CLU_ENDPOINT = st.secrets["AZURE_CLU_ENDPOINT"]
+AZURE_CLU_KEY = st.secrets["AZURE_CLU_KEY"]
+PROJECT_NAME = st.secrets["PROJECT_NAME"]
+DEPLOYMENT_NAME = st.secrets["DEPLOYMENT_NAME"]
+OPENAI_ENDPOINT = st.secrets["OPENAI_ENDPOINT"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Cargar datos JSON
+RUTA_JSON = "fichas-json-clean-structured/"  
+
 def cargar_json_desde_carpeta(ruta):  
     json_data = []  
     for archivo in os.listdir(ruta):  
