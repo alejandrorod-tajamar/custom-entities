@@ -154,16 +154,22 @@ st.markdown(
     "<h1 style='text-align: center;'>PC RECOMMEND<span style='color: red;'>AI</span>TION 💻</h1>", 
     unsafe_allow_html=True
 )
+
+# Inicializar variables para el desplegable
+idioma_detectado = "es"
+intent_detectado = None
+entidades_detectadas = {}
+
 user_input = st.text_input("¿Qué ordenador buscas?")  
 
 if user_input:  
-    idioma = detectar_idioma(user_input)
-    texto_traducido = traducir_texto(user_input, "es") if idioma != "es" else user_input
+    idioma_detectado = detectar_idioma(user_input)
+    texto_traducido = traducir_texto(user_input, "es") if idioma_detectado != "es" else user_input
     
-    intent, entidades = detectar_intent_y_entidades(texto_traducido)  
+    intent_detectado, entidades_detectadas = detectar_intent_y_entidades(texto_traducido)  
     
-    if intent in ["RealizarPedido", "SolicitarInfo"]:  
-        resultado = buscar_ordenador(entidades, json_data)  
+    if intent_detectado in ["RealizarPedido", "SolicitarInfo"]:  
+        resultado = buscar_ordenador(entidades_detectadas, json_data)  
 
         if resultado:  
             respuesta = "### Ordenador recomendado:\n"  
@@ -175,9 +181,17 @@ if user_input:
                 elif valor:  
                     respuesta += f"**{clave}:** {valor}\n\n"  
             
-            respuesta_final = traducir_texto(respuesta, idioma)
+            respuesta_final = traducir_texto(respuesta, idioma_detectado)
             st.markdown(respuesta_final)  
         else:  
-            st.write(traducir_texto("No se encontró un ordenador que coincida con tu solicitud.", idioma))  
+            st.write(traducir_texto("No se encontró un ordenador que coincida con tu solicitud.", idioma_detectado))  
     else:  
-        st.write(traducir_texto("No entiendo tu solicitud. ¿Puedes reformularla?", idioma))
+        st.write(traducir_texto("No entiendo tu solicitud. ¿Puedes reformularla?", idioma_detectado))  
+
+# Mostrar el desplegable con la información detectada
+with st.expander("Información detectada"):
+    st.write(f"**Idioma detectado:** {idioma_detectado}")
+    st.write(f"**Intent detectado:** {intent_detectado}")
+    st.write("**Entidades detectadas:**")
+    for entidad, valor in entidades_detectadas.items():
+        st.write(f"- {entidad}: {valor}")
