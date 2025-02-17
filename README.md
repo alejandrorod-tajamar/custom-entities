@@ -3,7 +3,7 @@
 ## Uso de la aplicación
 
 - Acceder al enlace: []()
-- Utilizar las [preguntas de ejemplo]() como guía para probar el chatbot.
+- Utilizar las [preguntas de ejemplo](example-inputs.md) como guía para probar el chatbot.
 - Escribir mensajes propios en el chat que sean similares a los de ejemplo para comprobar cuáles funcionan mejor.
 - Para ver la intención y las entidades detectadas en cada mensaje mandado, expandir el desplegable de la parte superior del chat.
 
