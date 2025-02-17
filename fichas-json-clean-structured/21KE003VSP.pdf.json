@@ -60,7 +60,7 @@
                 "ConexiónRedMóvil": "No",
                 "NºPuertosUSB": "",
                 "PuertosUSB": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On, 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), 1x HDMI® 2.1, 1x Headphone / microphone combo jack (3.5mm)",
-                "Ethernet": "No presente",
+                "Ethernet": "No",
                 "Bluetooth": {
                     "Disponible": "Si",
                     "Versión": ""

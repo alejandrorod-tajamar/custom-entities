@@ -2,3 +2,5 @@ python-dotenv
 azure-ai-formrecognizer
 azure-core
 openai
+streamlit
+rapidfuzz

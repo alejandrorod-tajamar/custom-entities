@@ -60,7 +60,7 @@
                 "ConexiónRedMóvil": "No",
                 "NºPuertosUSB": "0",
                 "PuertosUSB": "2.0 High Speed Type-A 0, 3.2 Gen 1 SuperSpeed (5 Gbps) Type-A 0",
-                "Ethernet": "No presente",
+                "Ethernet": "No",
                 "Bluetooth": {
                     "Disponible": "Si",
                     "Versión": ""

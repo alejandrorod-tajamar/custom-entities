@@ -60,7 +60,7 @@
                 "ConexiónRedMóvil": "No",
                 "NºPuertosUSB": "",
                 "PuertosUSB": "",
-                "Ethernet": "No presente",
+                "Ethernet": "No",
                 "Bluetooth": {
                     "Disponible": "Si",
                     "Versión": ""

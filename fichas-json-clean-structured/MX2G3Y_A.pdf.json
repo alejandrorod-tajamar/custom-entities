@@ -16,12 +16,12 @@
                 "Máxima": "36 GB",
                 "BancosLibres": "",
                 "Velocidad": "",
-                "Tecnología": "n.d."
+                "Tecnología": ""
             },
             "DiscoDuro": {
                 "Capacidad": "1.064 GB",
                 "Tipo": "SSD",
-                "Interfaz": "Non presente",
+                "Interfaz": "",
                 "NúmeroSoportes": "0",
                 "Velocidad": ""
             },

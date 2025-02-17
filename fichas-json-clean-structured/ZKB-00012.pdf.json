@@ -60,7 +60,7 @@
                 "ConexiónRedMóvil": "No",
                 "NºPuertosUSB": "3",
                 "PuertosUSB": "2.0 High Speed Type-A 1, 4 (40 Gbps) Type-C 2",
-                "Ethernet": "No presente",
+                "Ethernet": "No",
                 "Bluetooth": {
                     "Disponible": "Si",
                     "Versión": "5,3"

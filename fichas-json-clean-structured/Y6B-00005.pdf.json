@@ -9,7 +9,7 @@
                 "Modelo": "i7-165U",
                 "Fabricante": "Intel",
                 "Frecuencia": "1,7 GHZ",
-                "Núcleos": "No especificado"
+                "Núcleos": ""
             },
             "RAM": {
                 "Instalada": "32 GB",
@@ -23,7 +23,7 @@
                 "Tipo": "Hybrid-HDD",
                 "Interfaz": "SSD",
                 "NúmeroSoportes": "1",
-                "Velocidad": "No especificado"
+                "Velocidad": ""
             },
             "TarjetaGrafica": {
                 "Integrada": "Si",
@@ -47,7 +47,7 @@
                 "Superficie": "Brillo",
                 "Luminosidad": "600 cd/m2",
                 "Contraste": "1.300:1",
-                "TiempoRefresco": "No especificado"
+                "TiempoRefresco": ""
             },
             "General": {
                 "Color": "Gris",
@@ -60,7 +60,7 @@
                 "ConexiónRedMóvil": "No",
                 "NºPuertosUSB": "4",
                 "PuertosUSB": "2 (40 Gbps) Type-C",
-                "Ethernet": "No presente",
+                "Ethernet": "No",
                 "Bluetooth": {
                     "Disponible": "Si",
                     "Versión": "5,3"
@@ -71,12 +71,12 @@
             },
             "Audio": {
                 "MicrófonoIntegrado": "Si",
-                "Altavoces": "No especificado"
+                "Altavoces": "No"
             },
             "Bateria": {
                 "NúmeroCeldas": "4",
                 "Duración": "hasta 19 h",
-                "Capacidad": "No especificado"
+                "Capacidad": "No"
             },
             "Webcam": {
                 "Integrada": "Si",
@@ -86,7 +86,7 @@
             "Teclado": {
                 "Numérico": "No",
                 "Retroiluminado": "No",
-                "NúmeroTeclas": "No especificado"
+                "NúmeroTeclas": "No"
             }
         }
     ]
